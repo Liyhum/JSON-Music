@@ -1,0 +1,2209 @@
+{
+    "Songs":  [
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "In Da Club",
+                      "Cover":  "rbxassetid://108545758953426",
+                      "Id":  107805556230878,
+                      "Length":  86.152,
+                      "Artist":  "50 Cent",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "P.I.M.P",
+                      "Cover":  "rbxassetid://108545758953426",
+                      "Id":  136392565945503,
+                      "Length":  108.33,
+                      "Artist":  "50 Cent",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "No Role Modelz",
+                      "Cover":  "rbxassetid://78972579141272",
+                      "Id":  98339155980842,
+                      "Length":  127.347,
+                      "Artist":  "J. Cole",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Two Six",
+                      "Cover":  "rbxassetid://78972579141272",
+                      "Id":  131899818252208,
+                      "Length":  85.316,
+                      "Artist":  "J. Cole",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "TV Off",
+                      "Cover":  "rbxassetid://116986003586808",
+                      "Id":  97232115319018,
+                      "Length":  96,
+                      "Artist":  "Kendrick Lamar",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "i",
+                      "Cover":  "rbxassetid://116986003586808",
+                      "Id":  114159595482558,
+                      "Length":  113.241,
+                      "Artist":  "Kendrick Lamar",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Luther w SZA",
+                      "Cover":  "rbxassetid://116986003586808",
+                      "Id":  122590419466889,
+                      "Length":  77.296,
+                      "Artist":  "Kendrick Lamar",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Drop It Like Its Hot ft. Pharrell Williams",
+                      "Cover":  "rbxassetid://13423533042",
+                      "Id":  132275154933772,
+                      "Length":  117.42,
+                      "Artist":  "Snoop Dogg",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Surround Sound ft. 21 Savage \u0026 Baby Tate",
+                      "Cover":  "rbxassetid://92289152665040",
+                      "Id":  101497172247208,
+                      "Length":  100.023,
+                      "Artist":  "J.I.D",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Watch out",
+                      "Cover":  "rbxassetid://4533631943",
+                      "Id":  127024746999212,
+                      "Length":  67.892,
+                      "Artist":  "Rich Brian",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Act up",
+                      "Cover":  "rbxassetid://4533631943",
+                      "Id":  134080234563898,
+                      "Length":  85.551,
+                      "Artist":  "Rich Brian",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "100 Degrees",
+                      "Cover":  "rbxassetid://4533631943",
+                      "Id":  136431425092843,
+                      "Length":  72.542,
+                      "Artist":  "Rich Brian",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Chaos",
+                      "Cover":  "rbxassetid://4533631943",
+                      "Id":  96823527771800,
+                      "Length":  66.116,
+                      "Artist":  "Rich Brian",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "WAP",
+                      "Cover":  "rbxassetid://92596876430734",
+                      "Id":  113118302810199,
+                      "Length":  81.58,
+                      "Artist":  "Cardi B ft. Megan Thee Stallion",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Please Me",
+                      "Cover":  "rbxassetid://92596876430734",
+                      "Id":  72441496509200,
+                      "Length":  100.702,
+                      "Artist":  "Cardi B ft. Bruno Mars",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "My Humps",
+                      "Cover":  "rbxassetid://82898411334978",
+                      "Id":  117640072705526,
+                      "Length":  102.348,
+                      "Artist":  "Black Eyed Peas",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Pump It",
+                      "Cover":  "rbxassetid://82898411334978",
+                      "Id":  97527545997693,
+                      "Length":  92.709,
+                      "Artist":  "Black Eyed Peas",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Gangsta\u0027s Paradise",
+                      "Cover":  "rbxassetid://13315552534",
+                      "Id":  87561399144640,
+                      "Length":  105.9,
+                      "Artist":  "Coolio ft. L.V",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Low",
+                      "Cover":  "rbxassetid://5673431824",
+                      "Id":  74661780698354,
+                      "Length":  99.971,
+                      "Artist":  "Flo Rida ft. T-Pain",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "GDFR",
+                      "Cover":  "rbxassetid://5673431824",
+                      "Id":  90399298907900,
+                      "Length":  96,
+                      "Artist":  "Flo Rida",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "SEE YOU AGAIN ft. Kali Uchis",
+                      "Cover":  "rbxassetid://4880576762",
+                      "Id":  139462957565309,
+                      "Length":  88.294,
+                      "Artist":  "Tyler, The Creator",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Nissan Altima",
+                      "Cover":  "rbxassetid://73846219930266",
+                      "Id":  95806417585634,
+                      "Length":  62.482,
+                      "Artist":  "Doechii",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Midsummer Madness feat. Joji, Rich Brian [REMIX]",
+                      "Cover":  "rbxassetid://4533631943",
+                      "Id":  98001926223607,
+                      "Length":  102.915,
+                      "Artist":  "88Rising",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "GODZILLA",
+                      "Cover":  "rbxassetid://10724129940",
+                      "Id":  120297857597754,
+                      "Length":  92.526,
+                      "Artist":  "Eminem",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Trendsetter",
+                      "Cover":  "rbxassetid://71048553786417",
+                      "Id":  93870531660698,
+                      "Length":  61.78,
+                      "Artist":  "Connor Price \u0026 Haviah Mighty",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Billie Eilish",
+                      "Cover":  "rbxassetid://5452791857",
+                      "Id":  135997713710009,
+                      "Length":  43.99,
+                      "Artist":  "Armani White",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "BE MY BABY (Prod. EGNEVER)",
+                      "Cover":  "rbxassetid://6207693677",
+                      "Id":  139309632042430,
+                      "Length":  64.575,
+                      "Artist":  "RAMENGVRL",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "AEAO",
+                      "Cover":  "rbxassetid://89548058019960",
+                      "Id":  94291173041847,
+                      "Length":  137.916,
+                      "Artist":  "Dynamic Duo, DJ Premier",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Hip-Hop",
+                      "Name":  "Dracula",
+                      "Cover":  "rbxassetid://6750073683",
+                      "Id":  112843086217001,
+                      "Length":  91.246,
+                      "Artist":  "JENNIE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "FEN ft Playboi Carti",
+                      "Cover":  "rbxassetid://119154078649747",
+                      "Id":  87673012136494,
+                      "Length":  84.088,
+                      "Artist":  "Travis Scott",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "goosebumps ft. Kendrick Lamar",
+                      "Cover":  "rbxassetid://119154078647057",
+                      "Id":  94499278911619,
+                      "Length":  108.983,
+                      "Artist":  "Travis Scott",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Sicko Mode ft. Drake",
+                      "Cover":  "rbxassetid://119154078649747",
+                      "Id":  78397832521626,
+                      "Length":  140.46,
+                      "Artist":  "Travis Scott",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Fukk Sleep ft. FKA Twigs",
+                      "Cover":  "rbxassetid://72863451850112",
+                      "Id":  135615100064469,
+                      "Length":  83.853,
+                      "Artist":  "A$AP Rocky",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Praise The Lord (Da Shine) ft. Skepta",
+                      "Cover":  "rbxassetid://72863451850112",
+                      "Id":  94968037574937,
+                      "Length":  89.182,
+                      "Artist":  "A$AP Rocky",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Helicopter",
+                      "Cover":  "rbxassetid://72863451850112",
+                      "Id":  86754213415511,
+                      "Length":  69.93,
+                      "Artist":  "A$AP Rocky",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Kissin Pink ft. A$AP Ferg",
+                      "Cover":  "rbxassetid://72863451850112",
+                      "Id":  138548100869714,
+                      "Length":  91.977,
+                      "Artist":  "A$AP Rocky",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Wu Tang Forever ft. A$AP Rocky",
+                      "Cover":  "rbxassetid://10839689471",
+                      "Id":  137333305342049,
+                      "Length":  128.261,
+                      "Artist":  "Drake",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Trap Queen",
+                      "Cover":  "rbxassetid://116859638285606",
+                      "Id":  120338394053282,
+                      "Length":  54.491,
+                      "Artist":  "Fetty Wap",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Beez In The Trap",
+                      "Cover":  "rbxassetid://4966003641",
+                      "Id":  97082513296078,
+                      "Length":  161.767,
+                      "Artist":  "Nicki Minaj",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Plain Jane",
+                      "Cover":  "rbxassetid://4966003641",
+                      "Id":  106594321111575,
+                      "Length":  88.842,
+                      "Artist":  "Nicki Minaj",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "The Box",
+                      "Cover":  "rbxassetid://114948160157897",
+                      "Id":  81920863322414,
+                      "Length":  85.682,
+                      "Artist":  "Roddy Ricch",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Miss The Rage",
+                      "Cover":  "rbxassetid://113954387961463",
+                      "Id":  99275516824170,
+                      "Length":  57.26,
+                      "Artist":  "Trippie Redd \u0026 Playboi Carti",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Woke up",
+                      "Cover":  "rbxassetid://78833413471336",
+                      "Id":  140272873635546,
+                      "Length":  102.452,
+                      "Artist":  "Playboi Carti ft. Lil Uzi Vert",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Magnolia",
+                      "Cover":  "rbxassetid://118442438663714",
+                      "Id":  123307477602799,
+                      "Length":  79.099,
+                      "Artist":  "Playboi Carti",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Sky",
+                      "Cover":  "rbxassetid://118442438663714",
+                      "Id":  110811456195767,
+                      "Length":  84.062,
+                      "Artist":  "Playboi Carti",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Black Beatles",
+                      "Cover":  "rbxassetid://134460000027045",
+                      "Id":  129357526894017,
+                      "Length":  127.451,
+                      "Artist":  "Rae Sremmurd ft Gucci Mane",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Not so bad (Leans Gone Cold)",
+                      "Cover":  "rbxassetid://134460000027045",
+                      "Id":  112955803191199,
+                      "Length":  88.033,
+                      "Artist":  "Rae Sremmurd",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Knock Knock (prod. Lil Tecca)",
+                      "Cover":  "rbxassetid://18470096373",
+                      "Id":  109879957356543,
+                      "Length":  60.813,
+                      "Artist":  "SoFaygo",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Dark Knight Dummo (ft. Travis Scott)",
+                      "Cover":  "rbxassetid://18204107198",
+                      "Id":  128215940273347,
+                      "Length":  111.412,
+                      "Artist":  "Trippie Redd",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Leave Me Alone",
+                      "Cover":  "rbxassetid://89839024415503",
+                      "Id":  124851966378528,
+                      "Length":  85.107,
+                      "Artist":  "Flipp Dinero",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Japan",
+                      "Cover":  "rbxassetid://4426863633",
+                      "Id":  125399960575485,
+                      "Length":  62.72,
+                      "Artist":  "Famous Dex",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "500lbs",
+                      "Cover":  "rbxassetid://7328031844",
+                      "Id":  121068454727114,
+                      "Length":  62.824,
+                      "Artist":  "Lil Tecca",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Lot of me",
+                      "Cover":  "rbxassetid://79752487640597",
+                      "Id":  91806468046835,
+                      "Length":  53.891,
+                      "Artist":  "Lil Tecca",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Ransom",
+                      "Cover":  "rbxassetid://7328031844",
+                      "Id":  97102977823182,
+                      "Length":  64.366,
+                      "Artist":  "Lil Tecca",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Too Many Nights",
+                      "Cover":  "rbxassetid://6524783093",
+                      "Id":  108035885794526,
+                      "Length":  88.294,
+                      "Artist":  "Metro Boomin, Don Toliver, Future",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "ROCKSTAR",
+                      "Cover":  "rbxassetid://6473061924",
+                      "Id":  97071941240226,
+                      "Length":  66.116,
+                      "Artist":  "DaBaby ft Roddy Ricch",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Gucci Gang",
+                      "Cover":  "rbxassetid://81311124228653",
+                      "Id":  140237268083350,
+                      "Length":  56.633,
+                      "Artist":  "Lil Pump",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "I Love It",
+                      "Cover":  "rbxassetid://6213137741",
+                      "Id":  78056811813994,
+                      "Length":  56.686,
+                      "Artist":  "Kanye West \u0026 Lil Pump",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Astronaut In The Ocean",
+                      "Cover":  "rbxassetid://7030021318",
+                      "Id":  99471032611533,
+                      "Length":  66.247,
+                      "Artist":  "Masked Wolf",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Like JENNIE",
+                      "Cover":  "rbxassetid://675027324278533",
+                      "Id":  125469993511505,
+                      "Length":  53.689,
+                      "Artist":  "JENNIE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "SPOT",
+                      "Cover":  "rbxassetid://130839637067029",
+                      "Id":  89535342423823,
+                      "Length":  83.592,
+                      "Artist":  "Zico ft Jennie",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "ExtraL",
+                      "Cover":  "rbxassetid://6750073683",
+                      "Id":  107845594209608,
+                      "Length":  96.104,
+                      "Artist":  "JENNIE \u0026 Doechii",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "I Am The Best",
+                      "Cover":  "rbxassetid://5737777115",
+                      "Id":  83771308163045,
+                      "Length":  105.482,
+                      "Artist":  "2NE1",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Kill This Love",
+                      "Cover":  "rbxassetid://8660834057",
+                      "Id":  115327369666013,
+                      "Length":  84.271,
+                      "Artist":  "BLACKPINK",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "How Like That",
+                      "Cover":  "rbxassetid://8660834057",
+                      "Id":  84421207397791,
+                      "Length":  78.864,
+                      "Artist":  "BLACKPINK",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Pretty Savage",
+                      "Cover":  "rbxassetid://8660834057",
+                      "Id":  76995458685596,
+                      "Length":  86.622,
+                      "Artist":  "BLACKPINK",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "DDU-DU DDU-DU",
+                      "Cover":  "rbxassetid://8660834057",
+                      "Id":  95049911821257,
+                      "Length":  93.675,
+                      "Artist":  "BLACKPINK",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Shut Down",
+                      "Cover":  "rbxassetid://8660834057",
+                      "Id":  75438170460046,
+                      "Length":  78.498,
+                      "Artist":  "BLACKPINK",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "BOOMBAYAH",
+                      "Cover":  "rbxassetid://8660834057",
+                      "Id":  108135762911132,
+                      "Length":  104.725,
+                      "Artist":  "BLACKPINK",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "PSYCHO",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  127424160401283,
+                      "Length":  88.503,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Clik Clakk",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  134804002487226,
+                      "Length":  76.095,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "BILLIONAIRE",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  129531369404394,
+                      "Length":  71.105,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Like That",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  132907935623793,
+                      "Length":  77.087,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "Sheesh",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  122102805543063,
+                      "Length":  80.536,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "NEXT LEVEL",
+                      "Cover":  "rbxassetid://6088410347",
+                      "Id":  80091822999038,
+                      "Length":  96.392,
+                      "Artist":  "AESPA",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Trap",
+                      "Name":  "TNT",
+                      "Cover":  "rbxassetid://83690656793827",
+                      "Id":  134381104228556,
+                      "Length":  53.551,
+                      "Artist":  "CORTIS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Moonlight",
+                      "Cover":  "rbxassetid://4159707832",
+                      "Id":  71602349590936,
+                      "Length":  58.828,
+                      "Artist":  "XXXTentacion",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Changes",
+                      "Cover":  "rbxassetid://4159707832",
+                      "Id":  103135346860600,
+                      "Length":  52.689,
+                      "Artist":  "XXXTentacion",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Hope",
+                      "Cover":  "rbxassetid://4159707832",
+                      "Id":  77908301318414,
+                      "Length":  48.327,
+                      "Artist":  "XXXTentacion",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Revenge",
+                      "Cover":  "rbxassetid://4159707832",
+                      "Id":  116955126469274,
+                      "Length":  52.245,
+                      "Artist":  "XXXTentacion",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Arms Around You",
+                      "Cover":  "rbxassetid://4159707832",
+                      "Id":  127610999635722,
+                      "Length":  85.133,
+                      "Artist":  "XXXTentacion \u0026 Lil Pump ft Maluma",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Robbery",
+                      "Cover":  "rbxassetid://6782680079",
+                      "Id":  124304608891411,
+                      "Length":  104.568,
+                      "Artist":  "Juice WRLD",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "LND 02 Conversations",
+                      "Cover":  "rbxassetid://6782680079",
+                      "Id":  132995251105556,
+                      "Length":  79.047,
+                      "Artist":  "Juice WRLD",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "LND 03 Titanic",
+                      "Cover":  "rbxassetid://6782680079",
+                      "Id":  79720714420061,
+                      "Length":  76.852,
+                      "Artist":  "Juice WRLD",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Wishing Well",
+                      "Cover":  "rbxassetid://6782680079",
+                      "Id":  138522432162300,
+                      "Length":  84.689,
+                      "Artist":  "Juice WRLD",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Empty Out Your Pockets",
+                      "Cover":  "rbxassetid://7226581111",
+                      "Id":  74987583070022,
+                      "Length":  61.179,
+                      "Artist":  "Juice WRLD",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Lust",
+                      "Cover":  "rbxassetid://12076565380",
+                      "Id":  107493892087560,
+                      "Length":  67.892,
+                      "Artist":  "Lil Skies",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "XO TOUR Llif3",
+                      "Cover":  "rbxassetid://4786372387",
+                      "Id":  137992978760515,
+                      "Length":  78.446,
+                      "Artist":  "Lil Uzi Vert",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Watch this",
+                      "Cover":  "rbxassetid://4786372387",
+                      "Id":  132109305182578,
+                      "Length":  70.975,
+                      "Artist":  "Lil Uzi Vert",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Falling",
+                      "Cover":  "rbxassetid://18192582347",
+                      "Id":  101806104535272,
+                      "Length":  69.355,
+                      "Artist":  "Trevor Daniel",
+                      "DefaultSpeed":  0.43
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Wow",
+                      "Cover":  "rbxassetid://9309671274",
+                      "Id":  131793224800883,
+                      "Length":  68.728,
+                      "Artist":  "Post Malone",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Sunflower",
+                      "Cover":  "rbxassetid://9309671274",
+                      "Id":  11498684336200,
+                      "Length":  70.348,
+                      "Artist":  "Post Malone, Ricardo",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "MONTERO (Call Me By Your Name)",
+                      "Cover":  "rbxassetid://7027618819",
+                      "Id":  114946195515229,
+                      "Length":  82.599,
+                      "Artist":  "Lil Nas X",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Panini",
+                      "Cover":  "rbxassetid://7027618819",
+                      "Id":  118632999429464,
+                      "Length":  63.066,
+                      "Artist":  "Lil Nas X",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "Mood",
+                      "Cover":  "rbxassetid://5537383436",
+                      "Id":  113694857120164,
+                      "Length":  65.411,
+                      "Artist":  "24kGoldn",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Melodic Rap",
+                      "Name":  "STAY",
+                      "Cover":  "rbxassetid://15347929575",
+                      "Id":  92817239394940,
+                      "Length":  68.598,
+                      "Artist":  "The Kid LAROI, Justin Bieber",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "UK Drill",
+                      "Name":  "Let Go",
+                      "Cover":  "rbxassetid://114075326270882",
+                      "Id":  75020114280484,
+                      "Length":  77.166,
+                      "Artist":  "Central Cee",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "UK Drill",
+                      "Name":  "NO INTRO",
+                      "Cover":  "rbxassetid://114075326270882",
+                      "Id":  98445379822947,
+                      "Length":  70.243,
+                      "Artist":  "Central Cee",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "UK Drill",
+                      "Name":  "Obsessed With You",
+                      "Cover":  "rbxassetid://114075326270882",
+                      "Id":  111366922857207,
+                      "Length":  51.043,
+                      "Artist":  "Central Cee",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "UK Drill",
+                      "Name":  "Xmas Eve",
+                      "Cover":  "rbxassetid://114075326270882",
+                      "Id":  121231275769380,
+                      "Length":  64.601,
+                      "Artist":  "Central Cee",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "UK Drill",
+                      "Name":  "CRG ft. Dave",
+                      "Cover":  "rbxassetid://114075326270882",
+                      "Id":  117772671789269,
+                      "Length":  79.203,
+                      "Artist":  "Central Cee",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "UK Drill",
+                      "Name":  "Did It First ft. Ice Spice",
+                      "Cover":  "rbxassetid://114075326270882",
+                      "Id":  100700296043926,
+                      "Length":  0,
+                      "Artist":  "Central Cee",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "UK Drill",
+                      "Name":  "Soulecta Dub",
+                      "Cover":  "rbxassetid://98243924109720",
+                      "Id":  133173630432510,
+                      "Length":  69.303,
+                      "Artist":  "Central Cee ft Doja",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Chicago Drill",
+                      "Name":  "Demon",
+                      "Cover":  "rbxassetid://8722431649",
+                      "Id":  99070548360516,
+                      "Length":  58.279,
+                      "Artist":  "King Von",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Chicago Drill",
+                      "Name":  "GTA",
+                      "Cover":  "rbxassetid://8722431649",
+                      "Id":  111140838638156,
+                      "Length":  52.82,
+                      "Artist":  "King Von",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Chicago Drill",
+                      "Name":  "Ride",
+                      "Cover":  "rbxassetid://8722431649",
+                      "Id":  97921368189791,
+                      "Length":  61.936,
+                      "Artist":  "King Von",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Chicago Drill",
+                      "Name":  "Took her to the O",
+                      "Cover":  "rbxassetid://8722431649",
+                      "Id":  80745545666040,
+                      "Length":  84.637,
+                      "Artist":  "King Von",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Chicago Drill",
+                      "Name":  "War",
+                      "Cover":  "rbxassetid://8722431649",
+                      "Id":  87313750683074,
+                      "Length":  69.669,
+                      "Artist":  "King Von",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Chicago Drill",
+                      "Name":  "Hate Being Sober",
+                      "Cover":  "rbxassetid://9245596169",
+                      "Id":  109607088442486,
+                      "Length":  126.145,
+                      "Artist":  "Chief Keef",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Chicago Drill",
+                      "Name":  "Save that s**t",
+                      "Cover":  "rbxassetid://9245596161",
+                      "Id":  118962560443984,
+                      "Length":  62.72,
+                      "Artist":  "Chief Keef",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Obsessed",
+                      "Cover":  "rbxassetid://5620269529",
+                      "Id":  93087837079412,
+                      "Length":  105.351,
+                      "Artist":  "Mariah Carey",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "We Found Love",
+                      "Cover":  "rbxassetid://7352303142",
+                      "Id":  94144188275522,
+                      "Length":  119.85,
+                      "Artist":  "Rihanna",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Where Have You Been",
+                      "Cover":  "rbxassetid://7352303142",
+                      "Id":  126180703641575,
+                      "Length":  105.561,
+                      "Artist":  "Rihanna",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Don\u0027t Stop The Music",
+                      "Cover":  "rbxassetid://7352303142",
+                      "Id":  88694572212242,
+                      "Length":  116.167,
+                      "Artist":  "Rihanna",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Pour It Up",
+                      "Cover":  "rbxassetid://7352303142",
+                      "Id":  112658515612757,
+                      "Length":  70.139,
+                      "Artist":  "Rihanna",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "SOS",
+                      "Cover":  "rbxassetid://7352303142",
+                      "Id":  120325046770331,
+                      "Length":  103.915,
+                      "Artist":  "Rihanna",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Kiss It Better",
+                      "Cover":  "rbxassetid://7352303142",
+                      "Id":  133774590459136,
+                      "Length":  110.237,
+                      "Artist":  "Rihanna",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Cry For Me.",
+                      "Cover":  "rbxassetid://5629625906",
+                      "Id":  110155038050548,
+                      "Length":  97.541,
+                      "Artist":  "The Weeknd",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "My Boo ft. Alicia Keys",
+                      "Cover":  "rbxassetid://123755510471692",
+                      "Id":  125674228368846,
+                      "Length":  97.254,
+                      "Artist":  "Usher",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Boo\u0027d Up",
+                      "Cover":  "rbxassetid://114088478086485",
+                      "Id":  111323118267232,
+                      "Length":  102.079,
+                      "Artist":  "Ella Mai",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Trip",
+                      "Cover":  "rbxassetid://9619354193",
+                      "Id":  75670965311256,
+                      "Length":  94.563,
+                      "Artist":  "Ella Mai",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Girl you loud",
+                      "Cover":  "rbxassetid://6086702939",
+                      "Id":  99904384123548,
+                      "Length":  284.552,
+                      "Artist":  "Chris Brown ft. Tyga",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Akon\u0027s Beautiful Day",
+                      "Cover":  "rbxassetid://72237564717949",
+                      "Id":  114486581178436,
+                      "Length":  74.423,
+                      "Artist":  "Akon",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Attention",
+                      "Cover":  "rbxassetid://11446500721",
+                      "Id":  135369230019069,
+                      "Length":  75.341,
+                      "Artist":  "NEWJEANS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Ditto",
+                      "Cover":  "rbxassetid://11446500721",
+                      "Id":  72609783058360,
+                      "Length":  80.692,
+                      "Artist":  "NEWJEANS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Hype Boy",
+                      "Cover":  "rbxassetid://11446500721",
+                      "Id":  116181157629306,
+                      "Length":  77.871,
+                      "Artist":  "NEWJEANS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Super Shy",
+                      "Cover":  "rbxassetid://11446500721",
+                      "Id":  97911340441890,
+                      "Length":  67.344,
+                      "Artist":  "NEWJEANS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "OMG",
+                      "Cover":  "rbxassetid://11446500721",
+                      "Id":  104434182679624,
+                      "Length":  92.343,
+                      "Artist":  "NEWJEANS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Bad Boy",
+                      "Cover":  "rbxassetid://4767883316",
+                      "Id":  133645776197759,
+                      "Length":  93.1,
+                      "Artist":  "Red Velvet",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Underwater",
+                      "Cover":  "rbxassetid://4767883316",
+                      "Id":  74728698116618,
+                      "Length":  89.365,
+                      "Artist":  "RED VELVET",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "You \u0026 Me",
+                      "Cover":  "rbxassetid://6750073683",
+                      "Id":  124918551826930,
+                      "Length":  92.082,
+                      "Artist":  "JENNIE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "R\u0026B",
+                      "Name":  "Seoul City",
+                      "Cover":  "rbxassetid://6750073683",
+                      "Id":  128913325532759,
+                      "Length":  71.576,
+                      "Artist":  "JENNIE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Side to Side",
+                      "Cover":  "rbxassetid://4966003641",
+                      "Id":  111839585347569,
+                      "Length":  161.767,
+                      "Artist":  "Nicki Minaj",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Bang Bang",
+                      "Cover":  "rbxassetid://4966003641",
+                      "Id":  95634559255882,
+                      "Length":  85.734,
+                      "Artist":  "Jessie J, Nicki Minaj, Ariana Grande",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Beauty and a beat",
+                      "Cover":  "rbxassetid://128816019214276",
+                      "Id":  106942362605303,
+                      "Length":  127.425,
+                      "Artist":  "Justin Bieber ft Nicki Minaj",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Starships",
+                      "Cover":  "rbxassetid://4966003641",
+                      "Id":  94418330315254,
+                      "Length":  101.695,
+                      "Artist":  "Nicki Minaj",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Ready for it",
+                      "Cover":  "rbxassetid://10698251684",
+                      "Id":  77155923660749,
+                      "Length":  90.567,
+                      "Artist":  "Taylor Swift",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Finesse (Remix)",
+                      "Cover":  "rbxassetid://6925446999",
+                      "Id":  107015035308887,
+                      "Length":  97.019,
+                      "Artist":  "Bruno Mars ft Cardi B",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Agora Hills",
+                      "Cover":  "rbxassetid://5580221121",
+                      "Id":  81748940132383,
+                      "Length":  115.435,
+                      "Artist":  "Doja Cat",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Kiss Me More",
+                      "Cover":  "rbxassetid://5580221121",
+                      "Id":  89858641363136,
+                      "Length":  90.802,
+                      "Artist":  "Doja Cat",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Paint The Town Red",
+                      "Cover":  "rbxassetid://5580221121",
+                      "Id":  81235785535812,
+                      "Length":  100.807,
+                      "Artist":  "Doja Cat",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Say So",
+                      "Cover":  "rbxassetid://5580221121",
+                      "Id":  120011047541841,
+                      "Length":  102.478,
+                      "Artist":  "Doja Cat",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "360",
+                      "Cover":  "rbxassetid://138078210363781",
+                      "Id":  123411864681677,
+                      "Length":  114.965,
+                      "Artist":  "Charli xcx",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Apple",
+                      "Cover":  "rbxassetid://138078210363781",
+                      "Id":  109326809910233,
+                      "Length":  67.318,
+                      "Artist":  "Charli xcx",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Guess",
+                      "Cover":  "rbxassetid://138078210363781",
+                      "Id":  129524586997342,
+                      "Length":  70.034,
+                      "Artist":  "Charli xcx ft Billie eilish",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Magnetic",
+                      "Cover":  "rbxassetid://6633546598",
+                      "Id":  108641009013417,
+                      "Length":  58.828,
+                      "Artist":  "ILLIT",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Betty (Get Money)",
+                      "Cover":  "rbxassetid://15562695655",
+                      "Id":  80453516436901,
+                      "Length":  63.556,
+                      "Artist":  "Yung Gravy",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Espresso",
+                      "Cover":  "rbxassetid://120291048596240",
+                      "Id":  135423052123606,
+                      "Length":  87.249,
+                      "Artist":  "Sabrina Carpenter",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Sunday Best",
+                      "Cover":  "rbxassetid://81975474751119",
+                      "Id":  129238416806869,
+                      "Length":  76.983,
+                      "Artist":  "Surfaces",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "MILLION DOLLAR BABY",
+                      "Cover":  "rbxassetid://6046186544",
+                      "Id":  72593479552554,
+                      "Length":  72.464,
+                      "Artist":  "Tommy Richman",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Sexy and I Know It",
+                      "Cover":  "rbxassetid://9415967667",
+                      "Id":  123951237476911,
+                      "Length":  88.607,
+                      "Artist":  "LMFAO",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Life Goes On",
+                      "Cover":  "rbxassetid://14150833404",
+                      "Id":  108864508388997,
+                      "Length":  89.887,
+                      "Artist":  "Oliver Tree",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "THATS WHAT I WANT",
+                      "Cover":  "rbxassetid://7027618819",
+                      "Id":  137604689494526,
+                      "Length":  70.165,
+                      "Artist":  "Lil Nas X",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Mantra",
+                      "Cover":  "rbxassetid://6750073683",
+                      "Id":  113885484009990,
+                      "Length":  59.393,
+                      "Artist":  "JENNIE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "SOLO",
+                      "Cover":  "rbxassetid://6750073683",
+                      "Id":  123337762674257,
+                      "Length":  76.787,
+                      "Artist":  "JENNIE - Blackpink",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Filter",
+                      "Cover":  "rbxassetid://6750073683",
+                      "Id":  114787327953069,
+                      "Length":  66.064,
+                      "Artist":  "Jennie",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Lovesick Girls",
+                      "Cover":  "rbxassetid://8660834057",
+                      "Id":  110036076840464,
+                      "Length":  87.719,
+                      "Artist":  "BLACKPINK",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Play With Fire",
+                      "Cover":  "rbxassetid://8660834057",
+                      "Id":  70472933458382,
+                      "Length":  90.776,
+                      "Artist":  "BLACKPINK",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "JUMP",
+                      "Cover":  "rbxassetid://8660834057",
+                      "Id":  138301598829016,
+                      "Length":  71.654,
+                      "Artist":  "BLACKPINK",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "FOCUS",
+                      "Cover":  "rbxassetid://132873095478124",
+                      "Id":  112069140187555,
+                      "Length":  77.035,
+                      "Artist":  "HEARTS2HEARTS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Pretty Please",
+                      "Cover":  "rbxassetid://132873095478124",
+                      "Id":  129788742062294,
+                      "Length":  88.947,
+                      "Artist":  "HEARTS2HEARTS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Lemon Candy",
+                      "Cover":  "rbxassetid://132873095478124",
+                      "Id":  134248400273804,
+                      "Length":  70.452,
+                      "Artist":  "HEARTS2HEARTS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Better Up",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  108221524923521,
+                      "Length":  86.309,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Forever",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  136422956576296,
+                      "Length":  101.564,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Hot Sauce",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  137016975121309,
+                      "Length":  64.366,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Really Like You",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  91439835901722,
+                      "Length":  86.021,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "We Go Up",
+                      "Cover":  "rbxassetid://18614443938",
+                      "Id":  80460764596164,
+                      "Length":  81.398,
+                      "Artist":  "BABYMONSTER",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Fever",
+                      "Cover":  "rbxassetid://12228197741",
+                      "Id":  109773692257146,
+                      "Length":  98.508,
+                      "Artist":  "GFriend",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Rough",
+                      "Cover":  "rbxassetid://12228197741",
+                      "Id":  110670226321839,
+                      "Length":  90.854,
+                      "Artist":  "GFriend",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Sunrise",
+                      "Cover":  "rbxassetid://12228197741",
+                      "Id":  138832682700287,
+                      "Length":  94.407,
+                      "Artist":  "GFriend",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Me Gustas Tu",
+                      "Cover":  "rbxassetid://12228197741",
+                      "Id":  78252393271653,
+                      "Length":  96.131,
+                      "Artist":  "GFriend",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Navillera",
+                      "Cover":  "rbxassetid://12228197741",
+                      "Id":  125751549059034,
+                      "Length":  84.167,
+                      "Artist":  "GFriend",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Mago",
+                      "Cover":  "rbxassetid://12228197741",
+                      "Id":  71825793343233,
+                      "Length":  85.394,
+                      "Artist":  "GFriend",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Sunny Summer",
+                      "Cover":  "rbxassetid://12228197741",
+                      "Id":  112243947001096,
+                      "Length":  86.204,
+                      "Artist":  "GFriend",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "LIKE OOH - AHH",
+                      "Cover":  "rbxassetid://4894945638",
+                      "Id":  105431906578607,
+                      "Length":  93.554,
+                      "Artist":  "TWICE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Knock Knock",
+                      "Cover":  "rbxassetid://4894945638",
+                      "Id":  80342482609182,
+                      "Length":  85.182,
+                      "Artist":  "TWICE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "CHEER UP",
+                      "Cover":  "rbxassetid://4894945638",
+                      "Id":  97036009574734,
+                      "Length":  90.54,
+                      "Artist":  "TWICE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Dance The Night Away",
+                      "Cover":  "rbxassetid://4894945638",
+                      "Id":  73728243400705,
+                      "Length":  79.621,
+                      "Artist":  "TWICE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Likey",
+                      "Cover":  "rbxassetid://4894945638",
+                      "Id":  13241114112668,
+                      "Length":  90.358,
+                      "Artist":  "TWICE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Fancy",
+                      "Cover":  "rbxassetid://4894945638",
+                      "Id":  110575826951276,
+                      "Length":  94.354,
+                      "Artist":  "TWICE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Yes or Yes",
+                      "Cover":  "rbxassetid://4894945638",
+                      "Id":  108753309671474,
+                      "Length":  104.889,
+                      "Artist":  "TWICE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Feel Special",
+                      "Cover":  "rbxassetid://4894945638",
+                      "Id":  80710946965787,
+                      "Length":  97.489,
+                      "Artist":  "TWICE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Come Back Home",
+                      "Cover":  "rbxassetid://5737777115",
+                      "Id":  138383847140903,
+                      "Length":  103.314,
+                      "Artist":  "2NE1",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Fire",
+                      "Cover":  "rbxassetid://5737777115",
+                      "Id":  86596133095857,
+                      "Length":  100.937,
+                      "Artist":  "2NE1",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Into The New World",
+                      "Cover":  "rbxassetid://8262646470",
+                      "Id":  121305861939411,
+                      "Length":  114.651,
+                      "Artist":  "Girls Generation",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Gee",
+                      "Cover":  "rbxassetid://8262646470",
+                      "Id":  138025139754590,
+                      "Length":  87.223,
+                      "Artist":  "Girls Generation",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Ganie",
+                      "Cover":  "rbxassetid://8262646470",
+                      "Id":  87917325269966,
+                      "Length":  90.384,
+                      "Artist":  "Girls Generation",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Psycho",
+                      "Cover":  "rbxassetid://4767883316",
+                      "Id":  134583213934966,
+                      "Length":  90.958,
+                      "Artist":  "Red Velvet",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Eyes Locked Hands Locked",
+                      "Cover":  "rbxassetid://4767883316",
+                      "Id":  81961207701304,
+                      "Length":  109.296,
+                      "Artist":  "Red Velvet",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Cosmic",
+                      "Cover":  "rbxassetid://4767883316",
+                      "Id":  121963958122024,
+                      "Length":  100.049,
+                      "Artist":  "Red Velvet",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "BOOMPALA",
+                      "Cover":  "rbxassetid://11853430196",
+                      "Id":  91136335467566,
+                      "Length":  76.774,
+                      "Artist":  "LE SSERAFIM ",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Easy",
+                      "Cover":  "rbxassetid://11853430196",
+                      "Id":  121996605998539,
+                      "Length":  71.628,
+                      "Artist":  "LE SSERAFIM",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Crazy",
+                      "Cover":  "rbxassetid://11853430196",
+                      "Id":  103486140287722,
+                      "Length":  73.953,
+                      "Artist":  "LE SSERAFIM",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Perfect Night",
+                      "Cover":  "rbxassetid://11853430196",
+                      "Id":  86429693354832,
+                      "Length":  69.251,
+                      "Artist":  "LE SSERAFIM",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Smart Easy",
+                      "Cover":  "rbxassetid://11853430196",
+                      "Id":  79063018959079,
+                      "Length":  72.411,
+                      "Artist":  "LE SSERAFIM",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Pop / Dance Pop",
+                      "Name":  "Butter",
+                      "Cover":  "rbxassetid://5062640515",
+                      "Id":  122476163009952,
+                      "Length":  72.568,
+                      "Artist":  "BTS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "Blue",
+                      "Cover":  "rbxassetid://4629896408",
+                      "Id":  136732937396667,
+                      "Length":  150.361,
+                      "Artist":  "Billie Eilish",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "Chihiro",
+                      "Cover":  "rbxassetid://4629896408",
+                      "Id":  139994162924636,
+                      "Length":  140.748,
+                      "Artist":  "Billie Eilish",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "Ocean Eyes",
+                      "Cover":  "rbxassetid://4629896408",
+                      "Id":  82787426637990,
+                      "Length":  87.171,
+                      "Artist":  "Billie Eilish",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "Birds of a Feather",
+                      "Cover":  "rbxassetid://4629896408",
+                      "Id":  94887504596564,
+                      "Length":  100.415,
+                      "Artist":  "Billie Eilish",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "Bad Guy",
+                      "Cover":  "rbxassetid://4934787820",
+                      "Id":  99895310651628,
+                      "Length":  89.6,
+                      "Artist":  "Billie Eilish",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "Heat Waves",
+                      "Cover":  "rbxassetid://13995631248",
+                      "Id":  75866200176120,
+                      "Length":  102.419,
+                      "Artist":  "Glass Animals",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "Summertime Sadness",
+                      "Cover":  "rbxassetid://17403827321",
+                      "Id":  101769045257821,
+                      "Length":  180.271,
+                      "Artist":  "Lana Del Rey",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "hot girl bummer",
+                      "Cover":  "rbxassetid://4276268192",
+                      "Id":  101121035060681,
+                      "Length":  81.946,
+                      "Artist":  "beATTLE",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "I Ain\u0027t Worried",
+                      "Cover":  "rbxassetid://72168827737670",
+                      "Id":  111787886592804,
+                      "Length":  67.135,
+                      "Artist":  "OneRepublic",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Pop",
+                      "Name":  "Don\u0027t Tell Your Dreams",
+                      "Cover":  "rbxassetid://10341849824",
+                      "Id":  131152820906082,
+                      "Length":  61.858,
+                      "Artist":  "LOVIXX",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Rock \u0026 Indie",
+                      "Name":  "Heathens",
+                      "Cover":  "rbxassetid://4576093985",
+                      "Id":  78652906760994,
+                      "Length":  94.798,
+                      "Artist":  "Twenty One Pilots",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Rock \u0026 Indie",
+                      "Name":  "Sesi Potret",
+                      "Cover":  "rbxassetid://4516382500",
+                      "Id":  113226820144622,
+                      "Length":  88.137,
+                      "Artist":  "eÅ„au feat. Ari Lesmana",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative Rock \u0026 Indie",
+                      "Name":  "JoyRide",
+                      "Cover":  "rbxassetid://83690656793827",
+                      "Id":  89194381740868,
+                      "Length":  68.624,
+                      "Artist":  "CORTIS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative R\u0026B",
+                      "Name":  "Swim",
+                      "Cover":  "rbxassetid://4634318043",
+                      "Id":  129686353338362,
+                      "Length":  100.624,
+                      "Artist":  "Chase Atlantic",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative R\u0026B",
+                      "Name":  "FRIENDS",
+                      "Cover":  "rbxassetid://4634318043",
+                      "Id":  101270083835739,
+                      "Length":  100.846,
+                      "Artist":  "Chase Atlantic",
+                      "DefaultSpeed":  0.44
+                  },
+                  {
+                      "Genre":  "Alternative R\u0026B",
+                      "Name":  "The Walls",
+                      "Cover":  "rbxassetid://4634318043",
+                      "Id":  134771683650545,
+                      "Length":  100.923,
+                      "Artist":  "Chase Atlantic",
+                      "DefaultSpeed":  0.44
+                  },
+                  {
+                      "Genre":  "Alternative R\u0026B",
+                      "Name":  "BLACK \u0026 HAVEN",
+                      "Cover":  "rbxassetid://4634318043",
+                      "Id":  133067544861301,
+                      "Length":  114.461,
+                      "Artist":  "Chase Atlantic",
+                      "DefaultSpeed":  0.44
+                  },
+                  {
+                      "Genre":  "Alternative R\u0026B",
+                      "Name":  "Drugs \u0026 Money",
+                      "Cover":  "rbxassetid://4634318043",
+                      "Id":  125727454666741,
+                      "Length":  113.928,
+                      "Artist":  "Chase Atlantic",
+                      "DefaultSpeed":  0.44
+                  },
+                  {
+                      "Genre":  "Alternative R\u0026B",
+                      "Name":  "Moonlight",
+                      "Cover":  "rbxassetid://4634318043",
+                      "Id":  92650261554874,
+                      "Length":  119.362,
+                      "Artist":  "Chase Atlantic",
+                      "DefaultSpeed":  0.44
+                  },
+                  {
+                      "Genre":  "Alternative R\u0026B",
+                      "Name":  "Into It",
+                      "Cover":  "rbxassetid://4634318043",
+                      "Id":  131590642110844,
+                      "Length":  93.133,
+                      "Artist":  "Chase Atlantic",
+                      "DefaultSpeed":  0.44
+                  },
+                  {
+                      "Genre":  "Alternative R\u0026B",
+                      "Name":  "Consume",
+                      "Cover":  "rbxassetid://4634318043",
+                      "Id":  128339011530245,
+                      "Length":  116.558,
+                      "Artist":  "Chase Atlantic",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Alternative R\u0026B",
+                      "Name":  "Lullaby",
+                      "Cover":  "rbxassetid://83690656793827",
+                      "Id":  83607667292860,
+                      "Length":  71.497,
+                      "Artist":  "CORTIS",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Empire Of The Sun - Alive",
+                      "Cover":  "rbxassetid://5164280915",
+                      "Id":  133074302175458,
+                      "Length":  93.753,
+                      "Artist":  "Zedd Remix",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Till It Hurts ft. Ayden",
+                      "Cover":  "rbxassetid://94962972167853",
+                      "Id":  100696487314009,
+                      "Length":  82.338,
+                      "Artist":  "Yellow Claw",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Bad",
+                      "Cover":  "rbxassetid://138961715745223",
+                      "Id":  73920478705497,
+                      "Length":  74.24,
+                      "Artist":  "David Guetta \u0026 Showtek",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Without You",
+                      "Cover":  "rbxassetid://101718542675240",
+                      "Id":  117946418973050,
+                      "Length":  79.289,
+                      "Artist":  "Avicii, Sandro Cavazza",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Addicted To You",
+                      "Cover":  "rbxassetid://101718542675240",
+                      "Id":  82517370700513,
+                      "Length":  88.451,
+                      "Artist":  "Avicii",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Levels",
+                      "Cover":  "rbxassetid://101718542675240",
+                      "Id":  80346302477690,
+                      "Length":  86.309,
+                      "Artist":  "Avicii",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Lonely Together",
+                      "Cover":  "rbxassetid://101718542675240",
+                      "Id":  117382120020064,
+                      "Length":  80.196,
+                      "Artist":  "Avicii, Rita Ora",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Armageddon",
+                      "Cover":  "rbxassetid://6088410347",
+                      "Id":  75153018621787,
+                      "Length":  86.361,
+                      "Artist":  "AESPA",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Black Mamba",
+                      "Cover":  "rbxassetid://6088410347",
+                      "Id":  86501489087367,
+                      "Length":  75.598,
+                      "Artist":  "AESPA",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Dirty Work",
+                      "Cover":  "rbxassetid://6088410347",
+                      "Id":  140585070903627,
+                      "Length":  82.312,
+                      "Artist":  "AESPA",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Drama",
+                      "Cover":  "rbxassetid://6088410347",
+                      "Id":  126435298654136,
+                      "Length":  99.03,
+                      "Artist":  "AESPA",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Whiplash",
+                      "Cover":  "rbxassetid://6088410347",
+                      "Id":  7704207100661801,
+                      "Length":  82.887,
+                      "Artist":  "AESPA",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "EDM / House",
+                      "Name":  "Go Away",
+                      "Cover":  "rbxassetid://5737777115",
+                      "Id":  113071970646880,
+                      "Length":  95.478,
+                      "Artist":  "2NE1",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Latin / Reggaeton",
+                      "Name":  "Taki-Taki",
+                      "Cover":  "rbxassetid://12487013314",
+                      "Id":  77483306877966,
+                      "Length":  100.754,
+                      "Artist":  "DJ. Snake ft Selena Gomez",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Latin / Reggaeton",
+                      "Name":  "Mi Gente",
+                      "Cover":  "rbxassetid://15512948819",
+                      "Id":  87555719967493,
+                      "Length":  80.875,
+                      "Artist":  "J Balvin, Willy William",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Dancehall",
+                      "Name":  "Give It Up To Me",
+                      "Cover":  "rbxassetid://109580195807331",
+                      "Id":  116049571024576,
+                      "Length":  104.202,
+                      "Artist":  "Sean Paul",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Dancehall",
+                      "Name":  "You Don\u0027t Love Me (No, No, No)",
+                      "Cover":  "rbxassetid://6363787430",
+                      "Id":  84313016463527,
+                      "Length":  91.951,
+                      "Artist":  "Dawn Penn",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Afrobeats / Afro Fusion",
+                      "Name":  "Raindance",
+                      "Cover":  "rbxassetid://6889084285",
+                      "Id":  132166941213049,
+                      "Length":  95.608,
+                      "Artist":  "Dave ft Tems",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Misc / Remix",
+                      "Name":  "Confidence x Rodeo",
+                      "Cover":  "rbxassetid://14712483725",
+                      "Id":  80211436352710,
+                      "Length":  124.389,
+                      "Artist":  "Justin Bieber x Lah Pat",
+                      "DefaultSpeed":  0.43
+                  },
+                  {
+                      "Genre":  "Misc / Remix",
+                      "Name":  "90\u0027s Hip Hop Mix",
+                      "Cover":  "rbxassetid://14712483725",
+                      "Id":  111427862907104,
+                      "Length":  147.77,
+                      "Artist":  "DJ Blakey",
+                      "DefaultSpeed":  0.43
+                  },
+                  {
+                      "Genre":  "Misc / Remix",
+                      "Name":  "She\u0027s from London",
+                      "Cover":  "rbxassetid://5680725270",
+                      "Id":  74633371169089,
+                      "Length":  80.183,
+                      "Artist":  "George Kipa, Mwizz \u0026 Ybenz",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Misc / Remix",
+                      "Name":  "She goes by",
+                      "Cover":  "rbxassetid://6408957837",
+                      "Id":  93046846020248,
+                      "Length":  91.6,
+                      "Artist":  "KayArchon Remix",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Misc / Remix",
+                      "Name":  "TAKA LA DENTRO",
+                      "Cover":  "rbxassetid://116908904685578",
+                      "Id":  76146445770951,
+                      "Length":  39.079,
+                      "Artist":  "Sekimane",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Misc / Remix",
+                      "Name":  "Stereo Hearts",
+                      "Cover":  "rbxassetid://71183691993116",
+                      "Id":  101898725705110,
+                      "Length":  78.289,
+                      "Artist":  "Gym Class Heroes ft. Adam Levine",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Misc / Remix",
+                      "Name":  "Cintamu Sepahis Topi Miring",
+                      "Cover":  "rbxassetid://81949246999588",
+                      "Id":  78753016385641,
+                      "Length":  129.62,
+                      "Artist":  "JHF",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Misc / Remix",
+                      "Name":  "Song of Sabdatama",
+                      "Cover":  "rbxassetid://81949246999588",
+                      "Id":  134828345529768,
+                      "Length":  123.749,
+                      "Artist":  "JHF ft Akala",
+                      "DefaultSpeed":  0.435
+                  },
+                  {
+                      "Genre":  "Misc / Remix",
+                      "Name":  "Old Town Road",
+                      "Cover":  "rbxassetid://13995631248",
+                      "Id":  73574708832496,
+                      "Length":  68.415,
+                      "Artist":  "Lil Nas X ft. Billy Ray Cyrus",
+                      "DefaultSpeed":  0.435
+                  }
+              ]
+}
