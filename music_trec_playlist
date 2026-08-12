@@ -1,0 +1,3685 @@
+{
+  "Songs": [
+    {
+      "Genre": "AFRO",
+      "Name": "Lomilo Afrohouse",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133691863333500,
+      "Length": 0,
+      "Artist": "AFRO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "AFRO",
+      "Name": "El Profesor - Bella Ciao",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 135280666360104,
+      "Length": 0,
+      "Artist": "AFRO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "AFRO",
+      "Name": "BARA BARA BERE BERE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 75625427347743,
+      "Length": 0,
+      "Artist": "AFRO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "AFRO",
+      "Name": "HOTEL CALIFORNIA 1",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 84442692588467,
+      "Length": 0,
+      "Artist": "AFRO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AFRO",
+      "Name": "HOTEL CALIFORNIA 2",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 90643124342973,
+      "Length": 0,
+      "Artist": "AFRO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AFRO",
+      "Name": "SUNSET KINTAMANI BALI 2026",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 117068742714416,
+      "Length": 0,
+      "Artist": "AFRO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AMAPIANO",
+      "Name": "Julian",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 118921321066045,
+      "Length": 0,
+      "Artist": "AMAPIANO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AMAPIANO",
+      "Name": "Juicy Luicy",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 106642687266196,
+      "Length": 0,
+      "Artist": "AMAPIANO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AMAPIANO",
+      "Name": "Bernadya",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 115804324269003,
+      "Length": 0,
+      "Artist": "AMAPIANO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AMAPIANO",
+      "Name": "Amapiano Mixtape1",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93591370339380,
+      "Length": 0,
+      "Artist": "AMAPIANO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AMAPIANO",
+      "Name": "Amapiano Mixtape2",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 102865083037015,
+      "Length": 0,
+      "Artist": "AMAPIANO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AMAPIANO",
+      "Name": "Amapiano Mixtape3",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 138047983866595,
+      "Length": 0,
+      "Artist": "AMAPIANO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AMAPIANO",
+      "Name": "Mangu, Pica Pica, Stecu Stecu, Kau Rumahku, Tega",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 77341957143117,
+      "Length": 0,
+      "Artist": "AMAPIANO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "AMAPIANO",
+      "Name": "Mangu, Pica Pica, Stecu Stecu, Kau Rumahku, Tega1",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 137528159514931,
+      "Length": 0,
+      "Artist": "AMAPIANO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "TRAUMA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93028971063018,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "DJ BOUNCE & PA BOOM PA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 125183571235285,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "BUKAN WG - HRNY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 123239821281081,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "GET DOWN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 127713120070480,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "David Guetta & Showtek - Bad",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 74553551408946,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "TOKYO LOVE IT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 128619502670989,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "WYNTELLA - I MISS U",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78076241307512,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "WYNTELLA - LCK IT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 99490308467526,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "STEPHANIE X Y QUE FUE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 86775877268297,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "GARMIANI - VOODOO",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 99654470357580,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "LOKA LOKA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 71167661019528,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "WAKA WAKA X GENTLEMAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 75874943528433,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "CHURCH OF HELL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 121133660636567,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "EMERGENCY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 125228907351426,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "TAKUTU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 122753697129503,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "CRAZY FROG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 99111169298816,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "WYNTELLA-SUN & MOON",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 76076970368464,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "Whisnu Santika ft. Liquid Silva - Que Pasa",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 82881312228099,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "BANANA BOUNCE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 90313191931552,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "I'M AN ALBATROUZ",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 80234556597296,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "UP & DOWN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 80778269704542,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "BUTTERFLY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87829184497376,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "INDUSTRY BABY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 127399433014706,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "RAVE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 79557205789372,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "Whisnu Santika - Yalla Habibi",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 82870421644885,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BOUNCE",
+      "Name": "Bang Bang Bang",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87124693601019,
+      "Length": 0,
+      "Artist": "BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BRAZIL SONG",
+      "Name": "MC BRUNINHO & VITINHO FERRARI - SOU FAVELA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133570909440326,
+      "Length": 0,
+      "Artist": "BRAZIL SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ BAWA DIA KEMBALI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 75559658063144,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ TANPA CINTA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 105417279652230,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ PENIPU HATI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 74252657399232,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ TAK SEGAMPANG ITU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 131285394183266,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "JIKA ITU YANG TERBAIK",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 115655660239093,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ SIAL MAHALINI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 97808094904307,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "Jangan Paksa Rindu",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 104000829733286,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ KERAS KEPALA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 127426347782382,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ PENANTIAN INI TERAMATLAH PANJANG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78978282117213,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ SEBATAS MIMPI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 106387415870364,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ CINTA TERBAIK",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 139910244579535,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ SISA RASA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 108023607379373,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ KHABI KHUSHI KHABIE GHAM",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133449436593568,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ KUCH KUCH HOTA HAI X KOI MIL GAYA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 129003082897162,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ TERI MERI X RIP LOVE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 79825661795326,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ CHAAHA HAI TUJKHO",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 94723869788208,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "AKU SAYANG SAMPAI MATI (BKB)",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 98524787140885,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "HANYA INGIN KAU TAHU (BKB)",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 74025800584417,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "LIRIKKAN MATAMU (BKB)",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 108525656811005,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "FS DJ BEAUTY AND A BEAT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 140140460591050,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ ANGEL CONCRETE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 118017171534107,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ PARADISE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 105024993105123,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ BRAND NEW DAY X DORA DORA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 98818930921998,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "ONE PIECE ALOY X YBRAP",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87263723148423,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ OH MY DARLING",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 104857673682877,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ I NEED THE DOCTOR",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 85362824236450,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ SAVE ME STADIUM",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 139008515083267,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ ALWAYS LOVING YOU X AN ANGEL'S LOVE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 98537458072951,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ HERO",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133883811159384,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ THE DRUM",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 110742681347398,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ SHELTER STADIUM",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 71540267580860,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ RUSSIAN ROULETTE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92526492178176,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ LATHI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 113273894165420,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ BUMBLEBEE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 105218324211100,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "Phut Hon",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 122846520594474,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "CIPERI PAM PAM",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 99726375054491,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ INTINYA KACAMATA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 119691786858111,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ MUKA DUA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 114591930718760,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ Dracin x Stephanie x Goyang Dumang",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 108908946168740,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "BABY SHARK",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 77515754379598,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "BLACKPINK- DDU DU DDU DU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 114156551764606,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "BLACKPINK-JUMP",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 137554998275373,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "DJ CINTA MONYET",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 105911404288174,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "BREAKBEAT",
+      "Name": "CUMAN SELINGKUHAN KAMU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 85375688709973,
+      "Length": 0,
+      "Artist": "BREAKBEAT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "EDM",
+      "Name": "WHERE HAVE YOU BEEN X TOKYO DRIFT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 99932926649633,
+      "Length": 0,
+      "Artist": "EDM",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "EDM",
+      "Name": "Taki taki X Gasolina X Mi gente",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 121573458036658,
+      "Length": 0,
+      "Artist": "EDM",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "EDM",
+      "Name": "AY PAPI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 118711250955297,
+      "Length": 0,
+      "Artist": "EDM",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "EDM",
+      "Name": "Akon, Eminem - Smack That",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 73571549074327,
+      "Length": 0,
+      "Artist": "EDM",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "EDM",
+      "Name": "TWRK - BADINGA!",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 126948342140259,
+      "Length": 0,
+      "Artist": "EDM",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "EDM",
+      "Name": "DJ TURN IT UP",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 100172461363050,
+      "Length": 0,
+      "Artist": "EDM",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "EDM",
+      "Name": "7ICONS - PLAYBOY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 135593262023726,
+      "Length": 0,
+      "Artist": "EDM",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Avenged Sevenfold - Hail to the King",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 103020280205797,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Tungevaag, Raaban - Samsara",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 83308190263032,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "EGZOD & MAESTRO CHIVES - ROYALTY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 97758551601263,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SUB URBAN - CRADLES",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87288489817801,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ALAN WALKER - THE SPECTRE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92052495173563,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ALAN WALKER - FADED",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78827597202844,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ALAN WALKER - DARKSIDE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 91062146914877,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ALAN WALKER X PUTRI ARIANI X PEDER ALIAS - WHO I AM",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 126185414054073,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ALAN WALKER x THE DRUM",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 140425872023784,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ALAN WALKER x SABRINA CARPENTER & FARRUKO - ON MY WAY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 90234401596571,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ALAN WALKER x EMMA STEINBAKKEN- NOT YOU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 95428682596980,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "XXXTENTACION - HOPE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 108445825494473,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "XXXTENTACION - MOONLIGHT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 89129116618255,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BRUNO MARS - GRENADE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 102034318741691,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "PINK SWEAT$ - AT MY WORST",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81406247809606,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "THE CRANBERRIES - ZOMBIE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 110941708173240,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "RIHANNA - DIAMONDS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 125572688348253,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "TATE MCRAE - YOU BROKE ME FIRST",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 139240313897656,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "RIHANNA - YOU DA ONE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 129902875425580,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "TAYLOR SWIFT - THE FATE OF OPHELIA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92852283829733,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "KHALID - BETTER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 126803762542795,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "KHALID - TALK",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 105311049338323,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "CAMILA CABELLO - MY OH MY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81644136189380,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BILLIE EILISH - BAD GUY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 126086409526038,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "CAMILA CABELLO - HAVANA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 118286911353758,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BILLIE EILISH - WHAT WAS I MADE FOR?",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 99906033942654,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BILLIE EILISH - WHEN THE PARTY'S OVER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88632811939336,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SHAWN MENDES - IMAGINATION",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 96057998011382,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BILLIE EILISH - HAPPIER THAN EVER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 79325323887109,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BILLIE EILISH - WILDFLOWER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 134548817793259,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BILLIE EILISH - BIRDS OF A FEATHER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 102296282054750,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "MILEY CYRUS - WRECKING BALL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 102301235057785,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JOHN LEGEND - ALL OF ME",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81143053406262,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "P!NK - JUST GIVE ME REASON",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 118433816451285,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BRITNEY SPEARS - LUCKY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 125968365119388,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BRITNEY SPEARS - CRIMINAL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 102163765080792,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ICE SPICE - BIG GUY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92757782459329,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SIA - CHEAP THRILLS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 111696160814498,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "CARLY RAE JEPSEN - CALL ME MAYBE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 119858477778254,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BRITNEY SPEARS - OOPS!...I DID IT AGAIN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 83341199555436,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "KELLY CLARKSON - BECAUSE OF YOU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 89856973209308,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "LITTLE MIX - SECRET LOVE SONG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78198764018172,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SEAN KINGSTON, JUSTIN BIEBER - EENIE MEENIE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81271268415147,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BRUNO MARS - LOCKED OUT OF HEAVEN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78872624884168,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "COLBIE CAILLAT - BUBBLY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 131932973014518,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ELLIE GOULDING - BLACK PARADE DRESS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 125146965231840,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "ALICIA KEYS - IF I AIN'T GOT YOU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 100431831353065,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JORDIN SPARKS - TATTOO",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 104241975847703,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BRITNEY SPEARS - BABY ONE MORE TIME",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 106746875574789,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "MANESKIN - BEGGIN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 83447190405656,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVRIL LAVIGNE - I WILL BE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87864179287622,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "EVANESCENCE - BRING ME TO LIFE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 119695938947273,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVRIL LAVIGNE - MY HAPPY ENDING",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 126557238825718,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVRIL LAVIGNE - I'M WITH YOU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78293614347796,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVRIL LAVIGNE - COMPLICATED",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 84878277273225,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVRIL LAVIGNE - WHEN YOU'RE GONE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 103829983568776,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVRIL LAVIGNE - WISH YOU WERE HERE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 128112311144470,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SELENA GOMEZ, BENNY BLANCO - OJOS TRISTES",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133990020085694,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BRUNO MARS - DANCE WITH ME",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 122419355137811,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "DOMINIC FIKE - BABYDOLL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87372117389274,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Olivia Dean - So Easy (To Fall In Love)",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 86137748525322,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SIENNA SPIRO - DIE ON THIS HILL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93883481604159,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JOJI - SANCTUARY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 121258568712808,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JOJI - DIE FOR YOU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 116170661972552,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JOJI - GIMPSE OF US",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93411892082220,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "OASIS - DON'T LOOK BACK IN ANGER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 77762573851036,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BIA - WE ON GO",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 134550963789157,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "CIGARETTES AFTER S - APOCALYPSE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 70525767972157,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "CIGARETTES AFTER S - CRY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 126339828470048,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "GUNS N' ROSES - SWEET CHILD O' MINE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 108679433282815,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVENGED SEVENFOLD - SEIZE THE DAY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92308312948041,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVENGED SEVENFOLD - AFTERLIFE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 112674770393181,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVENGED SEVENFOLD - GUNSLINGER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 122085876150058,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "AVENGED SEVENFOLD - SO FAR AWAY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 119905011094286,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "MY CHEMICAL ROMANCE - HELENA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 72297114267201,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "MY CHEMICAL ROMANCE - I DON'T LOVE YOU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 136338235913693,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "MY CHEMICAL ROMANCE - DISENCHANTED",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 125102457630626,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "RUN RABBIT - MOLLI ELIZABETH",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 139206929041429,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "RIHANNA - TAKE A BOW",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 100221655528171,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SHAKIRA & BURNA BOY - DAI DAI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 106476041026277,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BACKSTREET BOYS - SHAPE OF MY HEART",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 127403854372456,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "MELCOLM TODD -EARRINGS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 120547472128841,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "CHRIS BROWN - NO SIGNAL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 72626463196149,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "KATTY PERRY - THE ONE THAT GOT AWAY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 95225168512778,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BAZZI - BEAUTIFUL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81110936525451,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "HENRY MOODIE - DRUNK TEXT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 138385218867672,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JAMES ARTHUR - IMPOSSIBLE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 112447956406148,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JUSTIN BIEBER - CONFIDENT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 70397287516916,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "DRAKE  - HOTLINE BLING",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 89523935692856,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "CHRIS BROWN - TEACH ME HOW TO LOVE YOU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92232168080949,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "DRAKE  - ONE DANCE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 89073664231154,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "DRAKE  - PASSIONFRUIT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 107723238751102,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "KILLA - ON HER BODY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 107723238751102,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JUSTIN BIEBER - INTENTIONS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87537547476120,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BRUNO MARS - RISK IT ALL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 112334775122133,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SHAWN MENDES,JUSTIN BIEBER - MONSTER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 129655457923190,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JUSTIN BIEBER - PEACHES",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88771808779276,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JUSTIN BIEBER - NEVER SAY NEVER FT. JAYDEN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 90515135788102,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "JUSTIN BIEBER,NICKI MINAJ - BEAUTY AND A BEAT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93255840537231,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "DOJA CAT - PAIN THE TOWN RED",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 111186700725182,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "NOBODY GETS ME",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 131526995780050,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "MarkCutz - Adam Port Moves",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 74405319058272,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SZA-SATURN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 75337236799063,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SZA x Calvin Harris - The Weekend",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133749275398010,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Kendrick Lamar, SZA - All The Stars",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133461941779732,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Bazzi - Star",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 90593582302077,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Chloe x Halle - Do It",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 102931714347591,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Tyla - Truth or Dare",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 85754425686888,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Stefflon Don & Ms Banks - Dip",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 136277157088616,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Ariana Grande - 34+35",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 86517453359693,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "MC Fioti - Bum Bum Tam Ta",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133845974893933,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "BLACKPINK - (JUMP)",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 139892928555318,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "The Weeknd - São Paulo",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 95932493097692,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Bazzi - Myself",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 101947750328004,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Libianca - People",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 135576532221125,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Doechii - What It Is",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 139522839308354,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Amaarae - SAD GIRLZ LUV MONEY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 73400339007534,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "DJ WE CAN'T BE FRIENDS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 80366782379986,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "DJ CHANDELIER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 76673535470705,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SUNRISE IS BEAUTIFUL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 75184217248156,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "DJ BLACK HOLE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 134174094131619,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Get Busy x Gasolina x Yeah",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 111575866875176,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SHAKE IT TO THE MAX",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 103664807950659,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "EMINEM - MOCKINGBIRD",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 86221929476776,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "It's Raining Tacos",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 109919236627083,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "London View",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 80602954569343,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Central Cee - Doja",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 139558733492019,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "THE LOTUS OF LIFE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 119521995206319,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Alan Walker, Ava Max - Alone",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93159827668800,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "GUCCI GANG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 71076841202349,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Flo Rida - GDFR",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 127750729575820,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Khalid - Young Dumb & Broke",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 117556032187472,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Desiigner - Panda",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 128431816493208,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "DJ MORENA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 100644456044018,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Akon - Smack That",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 84729406360260,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Taylor Swift - Would've, Could've, Should've",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 74366589041830,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "The Weeknd, Playboi Carti - Timeless",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 75287285758842,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "LANY - XXL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 90813660229347,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "LANY - ILYSB",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78443962866936,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "LAUV & LANY - MEAN IT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 94284403557054,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "LANY - MALIBU NIGHTS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88507587370767,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "LANY - DNA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 114352733768876,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "LANY - ALONICA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 113516784996868,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "LANY - STUCK",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92408185399960,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "LANY - Anything 4 U",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 110044994667525,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "SUNSET",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 120691899004834,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Steve Chris,Venes - Smile",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 106010153109404,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "ENGLISH SONG",
+      "Name": "Kehlani-After Hours",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 138068870434984,
+      "Length": 0,
+      "Artist": "ENGLISH SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "FS DJ AX PAMI - PENJAGA HATI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 80319854236407,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "FS DJ TERLALU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 138492846970225,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "FS DJ AX PAMI - SERIBU KALI SAYANG HARDMIX",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 123043440229731,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "DJ TERLENA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 127132445844128,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "FUNKOT GARAM CINA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 119981907234232,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "DJ KENANGAN MASA KECIL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 136018687275112,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "DJ MASA LALU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 119844879536839,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "DJ DUKUN CINTA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 107500521811255,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "GAK SUKA FUNKOT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 112837493913238,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "Dadali - Disaat Aku Tersakiti",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 115530605253200,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "DJ AX PAMI - AKU TERJATUH",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87241544108048,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "FUNKOT",
+      "Name": "FUNKOT PACARKU BERISTERI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 110555931678239,
+      "Length": 0,
+      "Artist": "FUNKOT",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "Astrid - Tentang Rasa",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 72777251056547,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "MIKKYZIA, F4DLI - AKU BILANG JANGAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 113307705083882,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "TASYA KAMILA - SAY NO",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 73388695139962,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "GEISHA - PERGI SAJA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87461724254148,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "GEISHA - LUMPUHKAN INGATANKU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 105082999978982,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "LETTO - RUANG RINDU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 125562649761915,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "RAIM LAODE - CEMBURU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 115886903033935,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "SAMSONS - TAK BISA MEMILIKI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 82909848214136,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "OBH COMBI SACHET",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 82280268675331,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "FOR REVENGE - SADRAH",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 85527962691978,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "NO NA - ROLLERBLADE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 126666746057746,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DNA ft. INDAHKUS - SECOND CHOICE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 74361113580428,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DIA - EEEE A",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 104963891008411,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ AISHITERU 2",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 96042739985273,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ TINGKAH MU SEMAKIN GILA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 121534392972295,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ PICA PICA X TABOLA BALE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88902749727349,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ MINUM ES TEH SATU GELAS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 131919265569998,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ JANGAN GANGGU PACARKU X PLAIN JANE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 117460253301563,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ JANGAN MALU MALU BOY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 132201215875689,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ KAKA PU MANIS BIKIN SA SUKA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 135589652405033,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ BINTANG 5",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 111607106809712,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ GADIS MANIS KALIMANTAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 70883008150783,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "KEONG RACUN X PLAIN JANE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 140573166946559,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "HEY LADIES",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93369498480968,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ LIRIK KANAN KIRI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92690235274038,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "Mejikuhibiniu Pije & Dum Cover",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 89971942340553,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "ANDRE MANDOR - SAYONARA 01",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 138945180448692,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "LAO SLATAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 99089942638760,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJJika Memang",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81687876844804,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ TERBANG BERSAMAKU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 96394053963900,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ LELAKI CADANGAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 128381844913221,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ GOYANG DUMANG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 86784237751428,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "YOU ALWAYS STAY IN MY LIFE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 109036886839883,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "SUPER EKSIS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 95323477820899,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "BERONDONG TUA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 95682179212307,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ IDOL IDOL HELIKOPTER",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 77257770575842,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ KICAU MANIA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 90230500967578,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ AX PAMI - SAKIT SUNGGUH SAKIT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 85105261484400,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "DJ GAUN MERAH",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 116338903081756,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "JARANG PULANG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 98511136339945,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "BETE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78216047983596,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "Naykilla - MMG (My Mine Gueh)",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 127954206783854,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "INDONESIAN SONG",
+      "Name": "Naykilla - Nuca - Masa ini, Nanti, dan Masa Indah Lainnya",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 104103801676716,
+      "Length": 0,
+      "Artist": "INDONESIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "TUNGGAL EKAA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 112751057629644,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "DJ MENUNGSO ORA TOTO",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 121757394114228,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "DJ DENOK JAWA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 98710144284096,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "TRESNO LIYANExDrill RNara",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 129080185619097,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "DJ PRAHU LAYAR X ANOMAN OBONG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87040688610882,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "DJ LDR PAIT TENAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 127598725059605,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "DJ LAMUNAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 70639663191334,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "DJ KUSUMA NING RATRI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 135666100402379,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "DJ LOS DOL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 111546247606062,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "DJ MERGAWE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 82277801647226,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "JAWA'S SONG",
+      "Name": "DJ  DUMES",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 104880457773012,
+      "Length": 0,
+      "Artist": "JAWA'S SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAY BOUNCE",
+      "Name": "Malay Bounce VOL 1",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 139310695561314,
+      "Length": 0,
+      "Artist": "MALAY BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAY BOUNCE",
+      "Name": "Malay Bounce VOL 1",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 118362541360556,
+      "Length": 0,
+      "Artist": "MALAY BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAY BOUNCE",
+      "Name": "Malay Bounce VOL 2",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81785204579018,
+      "Length": 0,
+      "Artist": "MALAY BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAY BOUNCE",
+      "Name": "Malay Bounce VOL 2",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 76032848456655,
+      "Length": 0,
+      "Artist": "MALAY BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAY BOUNCE",
+      "Name": "Malay Bounce VOL 2",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 116385335372310,
+      "Length": 0,
+      "Artist": "MALAY BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAY BOUNCE",
+      "Name": "SUCI X MASA LALU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 140138970692910,
+      "Length": 0,
+      "Artist": "MALAY BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAY BOUNCE",
+      "Name": "DIMATAMU X ORANG YANG SALAH X BIARKAN JATUH CINTA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 90674544681291,
+      "Length": 0,
+      "Artist": "MALAY BOUNCE",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Ayda Jebat - Pencuri Hati",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 99606980401061,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Ayda Jebat - Nakal Nakal Nakal",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 100542923876625,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Not For Sale (feat. Altimet)",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 79679239831081,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "De Fam - #SUPERGIRLS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 111987385972728,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Baby Shima & Floor 88 - Roadblock Hatiku",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 73689136606563,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "K CLIQUE FT ALIF - MIMPI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 115996409050619,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Ayda Jebat - Temberang",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 73134644234384,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Yonnyboii, Malique - Tanya Tuhan",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 100270656810770,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Pilihan Mu - Bunga X Luqman Podolski",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81778259369435,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DOLLA - MWA!",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 130063486318600,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DJ ORG YANG SAMA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 73439965557211,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DJ ULEK MAYANG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 103400470852839,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "MOJO - ROMANCINTA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 104220664078853,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "HILANG KADANG KU TAK TENANG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 137927685832433,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "AKU ADA BRAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78874846561012,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DJ ZAPIN MELAYU X PRETTY GIRL",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 120550049341099,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "LANE LAIN LINE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 131427900258383,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "TIWIKARMA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 100449077059249,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "NISKALA SUAKA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93758632512797,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "K CLIQUE - BEG 2 BACK",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 75008137370182,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Chukiess & Whackboi - SINARAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 114895065144787,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Bunkface - Situasi",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 96200883690117,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DJ DIRANTAI DIGELANGI RINDU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 86977514353067,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DJ BENCI KUSANGKA SAYANG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 114215650849384,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "ICAL MOSH - FITNAH",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 101528748834975,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "MimiFly - Angkat",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 73530782059765,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "PARKBOIS - LOTUS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92277217105258,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DJ RETAK HATIKU SEMUA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 105629651821678,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "ZYNAKAL- SAKIT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 135468884875686,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "TAK SANGKA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93932315909277,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "HARAPALSU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88003400806570,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "GADISKU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 73463042736438,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DALAM DIAM",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 85280960559631,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DJ-DIA MILIK ORANG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 117494457724464,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DJvAce - Sambutlah Kasih",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 97063966037890,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Peggy Gou — (It Goes Like) Nanana",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 100854176258541,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Amelina - Di Dada Ku Ada Kamu",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 96831173127247,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Mas Idayu - Cintaku 100%",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 132814336895116,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "DJ CINDAI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 71894216474458,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Mas Idayu - Senggol Senggolan Cubit Cubitan",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 96706598856826,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Iwan & Amelina - Memori Daun PIsang",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 96767110492967,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Amelina - Semakin Rindu Semakin Asyik",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 130328409899305,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Iwan - Sedang Sedang Saja",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 83491893897647,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MALAYSIAN SONG",
+      "Name": "Iwan & Amelina - Yang Tersayang",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 126479690235012,
+      "Length": 0,
+      "Artist": "MALAYSIAN SONG",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MANYAO",
+      "Name": "DJ WO DE HAO XIONG DI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 125170994078790,
+      "Length": 0,
+      "Artist": "MANYAO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MANYAO",
+      "Name": "F4 - Liu Xing Yu",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 103803974929904,
+      "Length": 0,
+      "Artist": "MANYAO",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MANYAO",
+      "Name": "Jumping Machine - LBI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 123789546783140,
+      "Length": 0,
+      "Artist": "MANYAO",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MANYAO",
+      "Name": "Beyond - Hai Kuo Tian Kong",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 106382601590257,
+      "Length": 0,
+      "Artist": "MANYAO",
+      "DefaultSpeed": 0.5
+    },
+    {
+      "Genre": "MANYAO",
+      "Name": "FS DJ HUANG HUNG WKG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 97252386218996,
+      "Length": 0,
+      "Artist": "MANYAO",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "MANYAO",
+      "Name": "Xiao Xing Yun",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88818955076484,
+      "Length": 0,
+      "Artist": "MANYAO",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MANYAO",
+      "Name": "LEGEND OF WONG FEI HUNG",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 95851639691901,
+      "Length": 0,
+      "Artist": "MANYAO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MANYAO",
+      "Name": "TONG HUA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 101311324777327,
+      "Length": 0,
+      "Artist": "MANYAO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "MARIODZ1",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 105207132450905,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "MARIODZ2",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 79142046518726,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "MARIODZ3",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 132859309838887,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "MARIODZ4",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 84170541001163,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "THROW1",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 130307851952079,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "THROW2",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 80828224630727,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "THROW3",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 85257886281490,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "THROW4",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88747878874559,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "ECNEVER X SCBD1",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 85236769639206,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "ECNEVER X SCBD2",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 94841070585308,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "ECNEVER X SCBD3",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 118736234624093,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "MIXTAPE",
+      "Name": "ECNEVER X SCBD4",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 117682348613572,
+      "Length": 0,
+      "Artist": "MIXTAPE",
+      "DefaultSpeed": 0.43
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "SKIZOPHRENIC LAND",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 129407759969468,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "HOW HAVE YOU BEEN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 77828808766929,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "SASAGEYO ATTACK ON TITAN",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 113017451944762,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "BENNY BENASSI-SATISFACTION",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 106025528547291,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "VOICES IN MY HEAD X FREAK",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 140413494040644,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "DJ NA NA NAAA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 92444986936045,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "PSY ARIA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 105051835811109,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "DJ MAMUSHI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 77753069174222,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "IN UR HEAD",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 74218499132927,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "SHA LA LA LAA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 75721239947794,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "Dimitri Vegas - Arcade Mammoth",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93851814279695,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 1
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "Black Eyed Peas - My Humps",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 104750525523847,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "I LIKE IT BAD",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 71451848296796,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "THE INFAMOUS - HOW DO YOU DO",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 132025759389411,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "FE!N X BOOYAH",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 95019000033067,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "DJ BOUNTYHUNTERS - WOOPS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 130052927304553,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "BLASTERJAXX - SPONGEBOB SQUAREPANTS",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 106949273432849,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "KIRK - BLA BLA BLA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 120781548853139,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "RIDE",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 132161333347200,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "BIGROOM NEVER DIES",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 131112990402196,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "Bad Girls Listen to Techno",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88917430677227,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "Whisnu Santika - Yalla Habibi",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 82870421644885,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "TNT - 2003",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 76049193637561,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "HELLO B!TCH",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 131449780581369,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "Gangsta's Paradise",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81130286013468,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "Bazaar",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 122771455484204,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "Flashlight",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 119217584849086,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "Blasterjaxx & Timmy Trumpet - Narco",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 132249013346322,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "WE LIKE TO PARTY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 82798451929764,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "GAM GAM",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 132628368756225,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "Artemas - I Like The Way You Kiss Me",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 85997981397379,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    },
+    {
+      "Genre": "TECHNO",
+      "Name": "UNHOLY",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133761255672149,
+      "Length": 0,
+      "Artist": "TECHNO",
+      "DefaultSpeed": 0.47
+    }
+  ]
+}
