@@ -9,15 +9,258 @@
       "Artist": "AFRO",
       "DefaultSpeed": 0.47
     },
-     {
+    {
       "Genre": "By Request Discord",
-      "Name": "MIMIFLY - TEMBERANG",
+      "Name": "DJ ATAS BAWAH = BREAKLATIN REMIX",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 115253901546695,
+      "Length": 0,
+      "Artist": "Disco Yaw Remix Ft AzmiYaw",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Waiting For Love",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88851464840805,
+      "Length": 0,
+      "Artist": "Avicii",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Makhluk Tuhan Paling Sexy",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 78665371364481,
+      "Length": 0,
+      "Artist": "Mulan Jameela",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Trumpsta (Djuro Remix)",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 94062861638850,
+      "Length": 0,
+      "Artist": "Contiez Feat. Treyy G",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "DJ BIARKAN CINTA TUMBUH SEBISANYA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 94328458149411,
+      "Length": 0,
+      "Artist": "Respin Fanes",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "DJ KARENA KAMU",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 129035802292498,
+      "Length": 0,
+      "Artist": "Maman Fvndy",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "LOST",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 75541710064277,
+      "Length": 0,
+      "Artist": "Unknown",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "DotA",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 74176956034345,
+      "Length": 0,
+      "Artist": "Basshunter",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "DÁKITI",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 121164741730683,
+      "Length": 0,
+      "Artist": "Bad Bunny x Jhay Cortez",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Dj Bounce & Pa Boom Pa",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 93358519556587,
+      "Length": 0,
+      "Artist": "Dj Bounce",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Pulangkan",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 133242403858669,
+      "Length": 0,
+      "Artist": "Misha Omar ft. Izzad Izzudin",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Payphone",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 111107569776141,
+      "Length": 0,
+      "Artist": "Maroon 5 ft. Wiz Khalifa",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Danger Line",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 121983978169302,
+      "Length": 0,
+      "Artist": "Avenged Sevenfold",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Kadawa",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 91268384099579,
+      "Length": 0,
+      "Artist": "Sagi Abitbul & Guy Haliva",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Rembau Most Wanted",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 95718839276125,
+      "Length": 0,
+      "Artist": "Waris",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Mimpi",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 81038351379824,
+      "Length": 0,
+      "Artist": "K-Clique feat. Alif",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Lai Lai Remix",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 138740298571041,
+      "Length": 0,
+      "Artist": "Akra",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Cina Timurr",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 77604471421596,
+      "Length": 0,
+      "Artist": "Nazen",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "AFTERSHOCK STADIUM BREAKBEAT",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 84447712458268,
+      "Length": 0,
+      "Artist": "Unknown",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "BREAKING DOWN - BREAKBEAT REMIX",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 87283411341262,
+      "Length": 0,
+      "Artist": "Ailee",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Poco Poco",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 77711638177908,
+      "Length": 0,
+      "Artist": "Lagu Daerah Maluku",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Hapus Aku (RE-QONSTRUKT)",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 84676612472729,
+      "Length": 0,
+      "Artist": "Chukiess & Whackboi",
+      "DefaultSpeed": 0.38
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "TEMBERANG",
       "Cover": "rbxassetid://94757012297203",
       "Id": 121742245212837,
-      "Length": 147.8182,
+      "Length": 0,
       "Artist": "MIMIFLY",
       "DefaultSpeed": 0.38
     },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Baila Conmigo",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 139348820837429,
+      "Length": 0,
+      "Artist": "Dayvi Ft. Victor Cárdenas & Kelly Ruiz",
+      "DefaultSpeed": 0.27
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "LOST",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 95810631203272,
+      "Length": 0,
+      "Artist": "Unknown",
+      "DefaultSpeed": 0.27
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Goyang Dumang",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 130711998815332,
+      "Length": 0,
+      "Artist": "Cita Citata",
+      "DefaultSpeed": 0.27
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Baila Conmigo",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 97497095863057,
+      "Length": 0,
+      "Artist": "Dayvi Ft. Victor Cárdenas & Kelly Ruiz",
+      "DefaultSpeed": 0.27
+    },
+    {
+      "Genre": "By Request Discord",
+      "Name": "Goyang Dumang",
+      "Cover": "rbxassetid://94757012297203",
+      "Id": 88972288565229,
+      "Length": 0,
+      "Artist": "Cita Citata",
+      "DefaultSpeed": 0.27
+    }
     {
       "Genre": "AFRO",
       "Name": "El Profesor - Bella Ciao",
