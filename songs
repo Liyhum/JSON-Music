@@ -1,0 +1,68 @@
+{
+  "Songs": [
+    {
+      "Title": "Sunset Drive",
+      "Artist": "Palm Vibes",
+      "Genre": "Synthwave",
+      "SoundId": "1843513364",
+      "ImageId": "rbxassetid://13589998240",
+      "Duration": 204
+    },
+    {
+      "Title": "Ocean Lights",
+      "Artist": "Neon Waves",
+      "Genre": "Chill",
+      "SoundId": "1837879082",
+      "ImageId": "rbxassetid://13589998240",
+      "Duration": 227
+    },
+    {
+      "Title": "Nightfall",
+      "Artist": "Zephyr",
+      "Genre": "Electronic",
+      "SoundId": "1843404009",
+      "ImageId": "rbxassetid://13589998240",
+      "Duration": 242
+    },
+    {
+      "Title": "Pink Skyline",
+      "Artist": "Luna Coast",
+      "Genre": "Pop",
+      "SoundId": "1837879082",
+      "ImageId": "rbxassetid://13589998240",
+      "Duration": 195
+    },
+    {
+      "Title": "Beach Club",
+      "Artist": "Miami Dreams",
+      "Genre": "House",
+      "SoundId": "1843513364",
+      "ImageId": "rbxassetid://13589998240",
+      "Duration": 216
+    },
+    {
+      "Title": "Late Nights",
+      "Artist": "Coastal Kid",
+      "Genre": "Lo-Fi",
+      "SoundId": "1843404009",
+      "ImageId": "rbxassetid://13589998240",
+      "Duration": 238
+    },
+    {
+      "Title": "Summer Breeze",
+      "Artist": "Sunset Lounge",
+      "Genre": "Chill",
+      "SoundId": "1837879082",
+      "ImageId": "rbxassetid://13589998240",
+      "Duration": 185
+    },
+    {
+      "Title": "Paradise Lost",
+      "Artist": "Tropical Neon",
+      "Genre": "Synthwave",
+      "SoundId": "1843513364",
+      "ImageId": "rbxassetid://13589998240",
+      "Duration": 210
+    }
+  ]
+}
