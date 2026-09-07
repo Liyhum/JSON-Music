@@ -1,941 +1,695 @@
 {
   "Songs": [
-        {
-        "Title": "The Smiths - There Is a Light That Never Goes Out | Lyrics",
-        "Artist": "The Smiths",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "117616523994736",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 243.6934,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "wave to earth - seasons",
-        "Artist": "wave to earth",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "101414131697157",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 256,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "wave to earth - love.",
-        "Artist": "wave to earth",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "121371870187413",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 305.9229,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Phoebe Bridgers - Scott Street",
-        "Artist": "Phoebe Bridgers",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "90814044775391",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 304.8083,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Lana Del Rey - Cinnamon Girl",
-        "Artist": "Lana Del Rey",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "134051280825688",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 299.9089,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Conan Gray - The Cut That Always Bleeds",
-        "Artist": "Conan Gray",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "0",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 232,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Billie Eilish - WILDFLOWER",
-        "Artist": "Billie Eilish",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "134994543635976",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 261.0155,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "sombr - back to friends",
-        "Artist": "sombr",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "75540099192987",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 199.0182,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Dream, Ivory - welcome and goodbye",
-        "Artist": "Dream, Ivory",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "106853154251768",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 141.0148,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Gigi Perez - Sailor Song",
-        "Artist": "Gigi Perez",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "79742277253784",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 210.9765,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Billie Eilish - TV",
-        "Artist": "Billie Eilish",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "97573445991368",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 281.0079,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Billie Eilish - BLUE",
-        "Artist": "Billie Eilish",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "110165936377623",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 343.0052,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Clara La San - In This Darkness",
-        "Artist": "Clara La San",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "83696392002289",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 197.0213,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Chezile - Beanie",
-        "Artist": "Chezile",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "90203044676756",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 132.0054,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Billie Eilish - BIRDS OF A FEATHER",
-        "Artist": "Billie Eilish",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "76622623338908",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 211.0229,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Steve Lacy - Bad Habit",
-        "Artist": "Steve Lacy",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "110388982024442",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 232.0138,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Lady Gaga, Bruno Mars - Die With A Smile",
-        "Artist": "Lady Gaga, Bruno Mars",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "73370883915795",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 251.7507,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Adele - Skyfall",
-        "Artist": "Adele",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "73447410452684",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 289.0188,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Nuca - Masa ini, Nanti, dan Masa Indah Lainnya",
-        "Artist": "Nuca",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "80649648650496",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 275.9924,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave The Door Open",
-        "Artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "111999392841838",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 241.5107,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Tulus - Interaksi",
-        "Artist": "Tulus",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "81580492863901",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 173.7549,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Payung Teduh - Untuk Perempuan Yang Sedang Di Pelukan",
-        "Artist": "Payung Teduh",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "138998719066216",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 342.0067,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Alex M.O.R.P.H., Sylvia Tosun - An Angel's Love - Breakbeat Mix",
-        "Artist": "Alex M.O.R.P.H., Sylvia Tosun",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "111374684674768",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 149.0024,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Raim Laode - iqro'",
-        "Artist": "Raim Laode",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "94898052922823",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 233.0122,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Justin Bieber - Flatline",
-        "Artist": "Justin Bieber",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "94311568545868",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 219.0106,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Juicy Luicy - Lantas",
-        "Artist": "Juicy Luicy",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "99385275718478",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 234.0107,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Tulus - Jatuh Suka",
-        "Artist": "Tulus",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "86432260943059",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 237.9116,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Tems - Me & U",
-        "Artist": "Tems",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "118266589541664",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 193.7705,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "eyeroze, Melodyz Town - Kiss It Better - Amapiano",
-        "Artist": "eyeroze, Melodyz Town",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "79122582746035",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 257.0217,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Lloyd, Lil Wayne - You",
-        "Artist": "Lloyd, Lil Wayne",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "134176123667174",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 281.0079,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Brian Zeno - Kiss It Better - Amapiano",
-        "Artist": "Brian Zeno",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "139949900617524",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 244.9241,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "YOGA BEATMAP, pidut - MIDDLE PATS",
-        "Artist": "YOGA BEATMAP, pidut",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "109705394559775",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 216.8511,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Bruno Mars - Just the Way You Are",
-        "Artist": "Bruno Mars",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "120961286493066",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 219.475,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "COPACABANA - Say No - Thailand Edit",
-        "Artist": "COPACABANA",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "137694452706516",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 212.0214,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Perunggu - Ini Abadi",
-        "Artist": "Perunggu",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "109442351131913",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 232.0138,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "COPACABANA - Say No",
-        "Artist": "COPACABANA",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "137474821266023",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 212.0214,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "eńau, Ari Lesmana - Sesi Potret",
-        "Artist": "eńau, Ari Lesmana",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "110163550205790",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 243.02,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "stripe, traumatic - Aftershock",
-        "Artist": "stripe, traumatic",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "140584007841392",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 547.6891,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "MR EWIK - SHOULD BE ME BREAKBEAT",
-        "Artist": "MR EWIK",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "74714838354172",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 310.7294,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Farizki - Aftershock - Breakbeat",
-        "Artist": "Farizki",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "112909108807506",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 195.7442,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Bruno Mars - Talking to the Moon",
-        "Artist": "Bruno Mars",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "90478288785094",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 214.5059,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Rihanna - Kiss It Better",
-        "Artist": "Rihanna",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "92480411486406",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 253.0046,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Keyshia Cole - Love",
-        "Artist": "Keyshia Cole",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "74034148701536",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 255.0015,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Cardi B, Bruno Mars - Please Me",
-        "Artist": "Cardi B, Bruno Mars",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "130009174408266",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 200.8758,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Sal Priadi - Ada titik-titik di ujung doa",
-        "Artist": "Sal Priadi",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "101564601885013",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 325.0097,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Tulus - Hati-Hati di Jalan",
-        "Artist": "Tulus",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "126697948838350",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 242.0216,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Raim Laode - Bersenja Gurau",
-        "Artist": "Raim Laode",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "108862179551533",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 194.0027,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Perunggu - 33x",
-        "Artist": "Perunggu",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "139916025435869",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 434.7704,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "TheVeZzy, Bigtzet - Kiss It Better",
-        "Artist": "TheVeZzy, Bigtzet",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "96714929337494",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 128.7314,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Piche Kota - Bahagia Lagi",
-        "Artist": "Piche Kota",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "103115475450693",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 225.0014,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Ed Sheeran - Perfect",
-        "Artist": "Ed Sheeran",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "133768655915510",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 263.0124,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "COPACABANA - Body Pata Pata - Thailand Edit",
-        "Artist": "COPACABANA",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "105733131251108",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 342.7033,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Tulus - 1000 Tahun Lamanya",
-        "Artist": "Tulus",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "92180706288188",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 232.0138,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "yuji, putri dahlia - Old Love",
-        "Artist": "yuji, putri dahlia",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "98702846334185",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 249.0108,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Aziz Hedra - Somebody's Pleasure",
-        "Artist": "Aziz Hedra",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "125136093286109",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 224.0029,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Kaleb J - It's Only Me - Studio Version",
-        "Artist": "Kaleb J",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "85335744746948",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 210.5353,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Benhajjjou, 8ouuda - Only Me and You",
-        "Artist": "Benhajjjou, 8ouuda",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "114012404714173",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 203.5229,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Steve Chris, Venes - Smile",
-        "Artist": "Steve Chris, Venes",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "140410903328559",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 190.7287,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "BenzMuzik - Can I Be",
-        "Artist": "BenzMuzik",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "107156256200599",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 181.8122,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Kaash Paige - Love Songs - Bonus",
-        "Artist": "Kaash Paige",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "121960361126200",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 148.6077,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Don Toliver - No Pole",
-        "Artist": "Don Toliver",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "81801007693466",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 187.6637,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Jeremih - oui",
-        "Artist": "Jeremih",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "79588018543171",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 238.5154,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Nadhif Basalamah - kota ini tak sama tanpamu",
-        "Artist": "Nadhif Basalamah",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "76504381779267",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 279.7076,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "LANY - XXL",
-        "Artist": "LANY",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "117782043708671",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 206.7505,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "The Chainsmokers, Halsey - Closer",
-        "Artist": "The Chainsmokers, Halsey",
-        "Genre": "Pop / Dance Pop",
-        "SoundId": "138094943668553",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 245.551,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Daniel Caesar - Always",
-        "Artist": "Daniel Caesar",
-        "Genre": "Alternative R&B",
-        "SoundId": "133425401188703",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 225.0014,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "keshi - UNDERSTAND",
-        "Artist": "keshi",
-        "Genre": "Alternative R&B",
-        "SoundId": "71908682789218",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 150.0009,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Cigarettes After Sex - Sweet",
-        "Artist": "Cigarettes After Sex",
-        "Genre": "Alternative R&B",
-        "SoundId": "78815151841824",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 291.9445,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Daniel Caesar - Hold Me Down",
-        "Artist": "Daniel Caesar",
-        "Genre": "Alternative R&B",
-        "SoundId": "138325795431431",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 231.0385,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Daniel Caesar - Pain Is Inevitable",
-        "Artist": "Daniel Caesar",
-        "Genre": "Alternative R&B",
-        "SoundId": "73646596832685",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 295.0327,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Cigarettes After Sex - K.",
-        "Artist": "Cigarettes After Sex",
-        "Genre": "Alternative R&B",
-        "SoundId": "136853942983739",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 317.022,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Daniel Caesar, Kali Uchis - Get You (feat. Kali Uchis)",
-        "Artist": "Daniel Caesar, Kali Uchis",
-        "Genre": "Alternative R&B",
-        "SoundId": "135506842688087",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 270.9536,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Cigarettes After Sex - Sunsetz",
-        "Artist": "Cigarettes After Sex",
-        "Genre": "Alternative R&B",
-        "SoundId": "122395288677157",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 214.9239,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Daniel Caesar, H.E.R. - Best Part (feat. H.E.R.)",
-        "Artist": "Daniel Caesar, H.E.R.",
-        "Genre": "Alternative R&B",
-        "SoundId": "115816288560138",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 211.0229,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "SZA - Nobody Gets Me",
-        "Artist": "SZA",
-        "Genre": "Alternative R&B",
-        "SoundId": "103795453326107",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 182.0212,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Frank Ocean - White Ferrari",
-        "Artist": "Frank Ocean",
-        "Genre": "Alternative R&B",
-        "SoundId": "104170135868721",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 248.8018,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Daniel Caesar - Superpowers",
-        "Artist": "Daniel Caesar",
-        "Genre": "Alternative R&B",
-        "SoundId": "115431404166436",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 174.614,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Daniel Caesar - Japanese Denim",
-        "Artist": "Daniel Caesar",
-        "Genre": "Alternative R&B",
-        "SoundId": "126851954048200",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 270.5357,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Cigarettes After Sex - Apocalypse",
-        "Artist": "Cigarettes After Sex",
-        "Genre": "Alternative R&B",
-        "SoundId": "89408030078901",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 290.0172,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Frank Ocean - Godspeed",
-        "Artist": "Frank Ocean",
-        "Genre": "Alternative R&B",
-        "SoundId": "129201556137859",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 177.9345,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Daniel Caesar, Mustafa - Toronto 2014 (with Mustafa)",
-        "Artist": "Daniel Caesar, Mustafa",
-        "Genre": "Alternative R&B",
-        "SoundId": "131345293070897",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 277.6178,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "SZA - Kill Bill",
-        "Artist": "SZA",
-        "Genre": "Alternative R&B",
-        "SoundId": "95518063121613",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 155.5505,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "SZA - Saturn",
-        "Artist": "SZA",
-        "Genre": "Alternative R&B",
-        "SoundId": "75079499491949",
-        "ImageId": "rbxassetid://4634318043",
-        "Duration": 187.7565,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "The 1975 - About You",
-        "Artist": "The 1975",
-        "Genre": "Alternative Rock & Indie",
-        "SoundId": "101921555333634",
-        "ImageId": "rbxassetid://4576093985",
-        "Duration": 326.4958,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Arctic Monkeys - No. 1 Party Anthem",
-        "Artist": "Arctic Monkeys",
-        "Genre": "Alternative Rock & Indie",
-        "SoundId": "87396524678099",
-        "ImageId": "rbxassetid://4576093985",
-        "Duration": 243.02,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Arctic Monkeys - I Wanna Be Yours",
-        "Artist": "Arctic Monkeys",
-        "Genre": "Alternative Rock & Indie",
-        "SoundId": "73804797832551",
-        "ImageId": "rbxassetid://4576093985",
-        "Duration": 183.9253,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Oasis - Married With Children",
-        "Artist": "Oasis",
-        "Genre": "Alternative Rock & Indie",
-        "SoundId": "83992064257248",
-        "ImageId": "rbxassetid://4576093985",
-        "Duration": 195.9764,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "SZA, Travis Scott - Open Arms (feat. Travis Scott)",
-        "Artist": "SZA, Travis Scott",
-        "Genre": "Hip-Hop",
-        "SoundId": "131726539313959",
+    {
+        "Title": "Akbar Chalay, Mingse - Astaga Bercanda (Official Music Video)",
+        "Artist": "Akbar Chalay, Mingse",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "82374691014735",
         "ImageId": "rbxassetid://108545758953426",
-        "Duration": 241.0231,
-        "SpeedBack": 0.2857
+        "Duration": 186.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
       },
       {
-        "Title": "Kendrick Lamar, SZA - luther (with sza)",
-        "Artist": "Kendrick Lamar, SZA",
-        "Genre": "Hip-Hop",
-        "SoundId": "129484329028377",
-        "ImageId": "rbxassetid://108545758953426",
-        "Duration": 177.6559,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Dave, Tems - Raindance (feat. Tems)",
-        "Artist": "Dave, Tems",
-        "Genre": "Hip-Hop",
-        "SoundId": "100722293854548",
-        "ImageId": "rbxassetid://108545758953426",
-        "Duration": 221.0075,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Travis Scott, Playboi Carti - FE!N (feat. Playboi Carti)",
-        "Artist": "Travis Scott, Playboi Carti",
-        "Genre": "Hip-Hop",
-        "SoundId": "138356026962705",
-        "ImageId": "rbxassetid://108545758953426",
-        "Duration": 193.0043,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Future - Solo",
-        "Artist": "Future",
-        "Genre": "Hip-Hop",
-        "SoundId": "108878064743178",
-        "ImageId": "rbxassetid://108545758953426",
-        "Duration": 267.5171,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "Metro Boomin, Future, Don Toliver - Too Many Nights (feat. Don Toliver & with Future)",
-        "Artist": "Metro Boomin, Future, Don Toliver",
-        "Genre": "Hip-Hop",
-        "SoundId": "125492436822350",
-        "ImageId": "rbxassetid://108545758953426",
-        "Duration": 200.0167,
-        "SpeedBack": 0.2857
-      },
-      {
-        "Title": "DJ Renato Freire - DJ BEAUTY AND A BEAT",
-        "Artist": "DJ Renato Freire",
+        "Title": "DJ SU JAUH SA TANAM HATI TAPI TRA HASIL VIRAL TIKTOK SLOW FULL SONG MAMAN FVNDY 2025",
+        "Artist": "Maman Fvndy Rmx",
         "Genre": "DJ & Electronic Mix",
-        "SoundId": "89737570110907",
-        "ImageId": "rbxassetid://84077097485442",
-        "Duration": 350.5749,
-        "SpeedBack": 0.2857
+        "SoundId": "122511827875654",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 286.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
       },
       {
-        "Title": "DJ Teloor - CONCRETE ANGEL",
-        "Artist": "DJ Teloor",
+        "Title": "DJ BODY PATA PATA CANTIK JELITA SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY 2026",
+        "Artist": "Maman Fvndy Rmx",
         "Genre": "DJ & Electronic Mix",
-        "SoundId": "108932019833228",
-        "ImageId": "rbxassetid://84077097485442",
-        "Duration": 379.5069,
-        "SpeedBack": 0.2857
+        "SoundId": "131122451616850",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 222.50522916666668,
+        "SpeedBack": 0.5,
+        "Volume": 5
       },
       {
-        "Title": "ciaffa, fedo DJ, surelynotsibi42 - Black Hole",
-        "Artist": "ciaffa, fedo DJ, surelynotsibi42",
+        "Title": "AKU DAH LUPA - ZIA & MIKKY",
+        "Artist": "AKU DAH LUPA",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "136306449774652",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 181.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ JAUH KO PERGI | SA CERITAKAN PADA BINTANG BINTANG SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY 2026",
+        "Artist": "Maman Fvndy Rmx",
         "Genre": "DJ & Electronic Mix",
-        "SoundId": "0",
-        "ImageId": "rbxassetid://84077097485442",
-        "Duration": 365,
-        "SpeedBack": 0.2857
+        "SoundId": "73745728949495",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 247.79175,
+        "SpeedBack": 0.5,
+        "Volume": 5
       },
       {
-        "Title": "Summer Walker, Drake - Girls Need Love (with Drake) - Remix",
-        "Artist": "Summer Walker, Drake",
+        "Title": "DJ TABOLA BALE X CALON MANTU IDAMAN SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY 2025",
+        "Artist": "Maman Fvndy Rmx",
         "Genre": "DJ & Electronic Mix",
-        "SoundId": "71672856132617",
-        "ImageId": "rbxassetid://84077097485442",
-        "Duration": 221.5184,
-        "SpeedBack": 0.2857
+        "SoundId": "120408265431063",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 193.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
       },
       {
-        "Title": "Kehlani - Folded",
-        "Artist": "Kehlani",
+        "Title": "Ngga Dulu - Akbar Chalay feat. Ciloqciliq & Zynakal (Visualizer)",
+        "Artist": "Ngga Dulu",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "107297022191022",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 186.73489583333333,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "TERNYATA ABU-ABU_Dj Qhelfin (Official Video Musik 2024)",
+        "Artist": "Dj Qhelfin",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "112254024668031",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 283.7478541666667,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ RINDU AKU RINDU KAMU JADI SATU SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY 2025",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "76998452858180",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 222.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Body Pata Pata (Thailand Edit)",
+        "Artist": "Copacabana",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "137659022822081",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 342.656875,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ KAKA PU MANIS BIKIN SA SUKA | DJ CURI CURI PANDANG SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY 2026",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "73688032557297",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 198.93697916666667,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ NGGAK DULU - JANGAN LAGI LAGI KAMU CARI CARI SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY 2025",
+        "Artist": "DJ NGGAK DULU",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "72611111936142",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 249.64935416666665,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Rombongan Bodonk Koplo - Calon Mantu Idaman Feat. Ncum (Official Music Video)",
+        "Artist": "Rombongan Bodonk Koplo",
         "Genre": "Indonesian / Hipdut",
-        "SoundId": "132886490940702",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 238.0045,
-        "SpeedBack": 0.2857
+        "SoundId": "124761089155890",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 230.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
       },
       {
-        "Title": "Kehlani - Folded",
-        "Artist": "Kehlani",
+        "Title": "Kasih Tau Mama (Malam Minggu)",
+        "Artist": "Rombongan Bodonk Koplo",
         "Genre": "Indonesian / Hipdut",
-        "SoundId": "136512067651062",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 238.0045,
-        "SpeedBack": 0.2857
+        "SoundId": "119976375666847",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 205.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
       },
       {
-        "Title": "Kehlani, COLORS - Folded - A COLORS SHOW",
-        "Artist": "Kehlani, COLORS",
+        "Title": "DJ AYO SAYANG CULIK AKU DONG VIRAL TIKTOK FULL SONG MAMAN FVNDY 2024",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "97738956096835",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 234.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ STECU STECU SETELAN CUEK BARU MALU SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY 2025",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "134357990299482",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 212.834125,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ SIKSA MENANGGUNG RINDU | DJ AISHITERU 2 SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY 2025",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "110499530673509",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 235.54322916666666,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "STECU-STECU - Dara Ayu Ft Faris Adam (Official Music Video) | Kalo Abang Suka, Jang Buang Muka",
+        "Artist": "STECU",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "97833492663919",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 217.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ TABRAK-TABRAK MASUK (Oke Gas 2) - Richard Jersey (Official Music Video)",
+        "Artist": "DJ TABRAK",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "84042366232647",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 159.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Cinta Merah Jambu (feat. Ajeng)",
+        "Artist": "LEK PANG",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "138494853174232",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 420.5528958333333,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Jangan Tunggu Lama Lama",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "131333636083349",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 244.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ  AKU MAMA MUDA MEMANG MAMA MUDA SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY Ft. AKBAR CHALAY 2025",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "90766454822698",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 190.47329166666665,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Ngapain Repot",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "75304797378384",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 184.896,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Sekecewa Itu (Remix)",
+        "Artist": "Agaa Betch",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "99850786922254",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 305.70085416666666,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ SEKECEWA ITU - KAU BUATKU SEKECEWA ITU REMIX FULL BASS TERBARU 2024",
+        "Artist": "DJ SEKECEWA ITU",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "89044479419415",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 299.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ KICAU MANIA REMIX VIRAL FYP TIKTOK TERBARU 2026! Akbar Chalay",
+        "Artist": "Akbar Chalay",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "103468568343106",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 181.81225,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Willing For Love (DJ REMIX) - Vita Alvia",
+        "Artist": "Willing For Love (DJ REMIX)",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "116432971527886",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 345.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "PANIK GAK x VACATION - Damon Empero ft. Veronica (DJ Desa)",
+        "Artist": "PANIK GAK x VACATION",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "85408291667366",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 429.9290833333333,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Mala Agatha - Berdiri Bulu Romaku (Official Music Video)",
+        "Artist": "Mala Agatha",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "110140704382144",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 228.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Mala Agatha - Kopi Dangdut (Official Music Video)",
+        "Artist": "Mala Agatha",
         "Genre": "Indonesian / Hipdut",
-        "SoundId": "93185569801030",
-        "ImageId": "rbxassetid://126594447343581",
-        "Duration": 259.0186,
-        "SpeedBack": 0.2857
+        "SoundId": "82052381717868",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 246.464,
+        "SpeedBack": 0.5,
+        "Volume": 5
       },
       {
-        "Title": "Ariana Grande - we can't be friends (wait for your love)",
-        "Artist": "Ariana Grande",
-        "Genre": "Ariana Grande",
-        "SoundId": "124080497981653",
-        "ImageId": "rbxassetid://122024797491108",
-        "Duration": 227.9039,
-        "SpeedBack": 0.2857
+        "Title": "Hamil Duluan (DJ Buncit Remix)",
+        "Artist": "DJ Buncit",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "109033044247649",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 198.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
       },
-    {"Title": "Balti feat Hamouda -", "Artist": "Arab", "Genre": "arab", "SoundId": "103465919018618", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Hadal Ahbek", "Artist": "Arab", "Genre": "arab", "SoundId": "113217242682568", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Amr Diab - Nour El E", "Artist": "Arab", "Genre": "arab", "SoundId": "118764443694049", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Ya Tabtab Wa Dallaa", "Artist": "Arab", "Genre": "arab", "SoundId": "128693697067667", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Allah Aliek Ya Sidy", "Artist": "Arab", "Genre": "arab", "SoundId": "121753876579535", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Ya Ghayeb", "Artist": "Arab", "Genre": "arab", "SoundId": "131809690222232", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Sidi Mansour", "Artist": "Arab", "Genre": "arab", "SoundId": "89428879042400", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Ya Lili", "Artist": "Arab", "Genre": "arab", "SoundId": "96801979832620", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Nour El Ein", "Artist": "Arab", "Genre": "arab", "SoundId": "87731456174022", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Allalah Belil", "Artist": "Arab", "Genre": "arab", "SoundId": "137136897986306", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Leh Beydary Keda", "Artist": "Arab", "Genre": "arab", "SoundId": "123173617856018", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Shealoma", "Artist": "Arab", "Genre": "arab", "SoundId": "114192557325133", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Acha", "Artist": "Arab", "Genre": "arab", "SoundId": "73211842742224", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Ana acheck", "Artist": "Arab", "Genre": "arab", "SoundId": "134730256168610", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "YouTube_Audio_249", "Artist": "Arab", "Genre": "arab", "SoundId": "94696131062271", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Menak Wla Meni", "Artist": "Arab", "Genre": "arab", "SoundId": "70456162728073", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Teer Ent", "Artist": "Arab", "Genre": "arab", "SoundId": "122309080170015", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Rayheen Nesshar - Bu", "Artist": "Arab", "Genre": "arab", "SoundId": "130697251795984", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Favor", "Artist": "Arab", "Genre": "arab", "SoundId": "129070637709866", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Inta Eyh", "Artist": "Arab", "Genre": "arab", "SoundId": "84880154152258", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Bastans", "Artist": "Arab", "Genre": "arab", "SoundId": "100081178491537", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Laa", "Artist": "Arab", "Genre": "arab", "SoundId": "131504271328752", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "El Ghazala Ray2a", "Artist": "Arab", "Genre": "arab", "SoundId": "109155542037226", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Delali", "Artist": "Arab", "Genre": "arab", "SoundId": "137858013273633", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Wala Kilma Remix", "Artist": "Arab", "Genre": "arab", "SoundId": "94550490554389", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Kalam Eineh", "Artist": "Arab", "Genre": "arab", "SoundId": "127730718795873", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Bel Bont El3areedh", "Artist": "Arab", "Genre": "arab", "SoundId": "140674045165534", "ImageId": "", "Duration": 0, "SpeedBack": 0.33},
+      {
+        "Title": "Tabola Bale x Lampu Kaka",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "115717669503909",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 339.8936875,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Tenxi, Jemsii & Naufal Syachreza - hoRRReg (Official Music Video)",
+        "Artist": "Tenxi, Jemsii & Naufal Syachreza",
+        "Genre": "Indonesian / Hipdut",
+        "SoundId": "136357612432111",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 230.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DINDA (DINDA JANGAN MARAH) - VITA ALVIA (DJ CEPAK CEPAK JEDER TIKTOK VIRAL) (OFFICIAL MUSIC VIDEO)",
+        "Artist": "DINDA (DINDA JANGAN MARAH)",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "112354863615383",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 335.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Syahriyadi - P P Apa Gadis Manis Kalimantan Dj Remix (Official Video Music)",
+        "Artist": "Syahriyadi",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "133898688141565",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 210.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Ora Urus",
+        "Artist": "Heru Fvnky Rmx",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "120367700803056",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 276.77341666666666,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Anugrah Cinta  (DJ REMIX) - Era Syaqira  //  Tahukah Kau Samudra Hindia",
+        "Artist": "Anugrah Cinta  (DJ REMIX)",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "76676739500055",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 412.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Akbar Chalay, Remora Xian - Emang Boleh? (Visualizer)",
+        "Artist": "Akbar Chalay, Remora Xian",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "92424242759475",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 168.83229166666666,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ JANGAN TUNGGU LAMA LAMA REMIX VIRAL FYP TIKTOK TERBARU 2025! Akbar Chalay",
+        "Artist": "Akbar Chalay",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "114946474140179",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 278.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "eńau feat. Ari Lesmana - Sesi Potret (Koplo is Me Remix)",
+        "Artist": "eńau feat. Ari Lesmana",
+        "Genre": "Indonesian / Hipdut",
+        "SoundId": "125972321958000",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 202.5,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ LU KENAL VERONIKA KO (DANSA PORTU)",
+        "Artist": "Release",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "112352417167172",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 253.60835416666666,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Joko Tingkir Ngombe Dawet - Shinta Gisul (Official music video)Thailand Style X Slow Bass - DJ",
+        "Artist": "Joko Tingkir Ngombe Dawet",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "117803993658894",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 344.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Sandrina & Ncum - Mau Adat Apa (Official Music Video)",
+        "Artist": "Sandrina & Ncum",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "107129477316135",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 194.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Gulu Pedot",
+        "Artist": "LEK PANG",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "87823714164409",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 271.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Tresno Tekane Mati",
+        "Artist": "Mocil Fvnky V2",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "107891520738699",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 255.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Garam & Madu (Sakit Dadaku) (Sped Up)",
+        "Artist": "NAYKILLA",
+        "Genre": "Indonesian / Hipdut",
+        "SoundId": "129046835365202",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 159.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Tak Sanggup Lagi (Remix Cover)",
+        "Artist": "DJ Ekall Rmx",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "110951908577781",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 277.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Cuma Temen (Sped Up)",
+        "Artist": "RYO",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "134209247347529",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 131.99039583333334,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Waktu ku Kecil (Remix Version)",
+        "Artist": "Release",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "98715512052026",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 323.61291666666665,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Zulie & Hairie - Oh Sayang Ngana Ini Bagaimana (Official Music Video) | badiam ba ba badiam ba ba",
+        "Artist": "Zulie & Hairie",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "121747099057811",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 263.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Mala Agatha  - Sebelas Duabelas (Official Live Music) DJ REMIX JEDAG JEDUG",
+        "Artist": "Mala Agatha",
+        "Genre": "Indonesian / Hipdut",
+        "SoundId": "73168015394163",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 322.8270416666667,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Jangan Malu Malu Boy (Remix)",
+        "Artist": "Indah",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "138455100940290",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 330.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Terek Bale",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "121027031801655",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 190.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Aku Dah Lupa",
+        "Artist": "Dj Komang Rimex",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "117082059403926",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 260.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Anugerah Terindah Plat DA",
+        "Artist": "DJ Chow",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "91206448487844",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 258.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Mama Muda",
+        "Artist": "Release",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "122937357773841",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 360.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Vita Alvia - RASA INGIN MEMILIKI",
+        "Artist": "Vita Alvia",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "92860723108404",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 384.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Mala Agatha - Terbang Bersamaku (Official Music Video) Peluk erat tubuhku sentuhlah jemariku",
+        "Artist": "Mala Agatha",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "113021701528491",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 315.91910416666667,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Ucie Sucita x Dinar Candy x Cupi Cupita - Bunga ( Tarik Sis Semongko )",
+        "Artist": "Ucie Sucita x Dinar Candy x Cupi Cupita",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "110685630150510",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 366.8693333333333,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ SENAM ANAK INDONESIA HEBAT REMIX TERBARU FULL BASS 2025 Viral Tiktok",
+        "Artist": "DJ Nansuya",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "110648547747741",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 345.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "INFONE MASEH (Ninu Ninu Ninu) (feat. SKA 86)",
+        "Artist": "Kalia Siska",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "91158004951573",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 289.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Joko Tingkir Ngombe Dawet",
+        "Artist": "Vita Alvia Official",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "79345040361823",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 330.806375,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Sayang Culik Aku",
+        "Artist": "Nisa Fauzia",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "123747915584384",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 324.623875,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ Aku Butuh Kasih Sayang Titatitut",
+        "Artist": "Cinema Twenty One",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "140300274240808",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 286.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "EGO WONG TUO",
+        "Artist": "DJ Kopra Fvnky",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "89398337779456",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 302.76927083333334,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Alan Walker, Putri Ariani, Peder Elias - Who I Am (Feel Koplo Dangdut Version)",
+        "Artist": "Alan Walker, Putri Ariani, Peder Elias",
+        "Genre": "Indonesian / Hipdut",
+        "SoundId": "97443828515961",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 228.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Mama Muda",
+        "Artist": "Galuh Tinatta",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "76835781958204",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 367.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Kutimang Adikku Sayang (Remix)",
+        "Artist": "SKONDEGANK ARTWORK",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "91251434542264",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 343.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Aku Jarang Disayang",
+        "Artist": "DJ NWP",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "84122835863281",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 314.5665416666667,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
     {"Title": "DJ KICAU", "Artist": "Veltura", "Genre": "Veltura", "SoundId": "127672228985487", "ImageId": "rbxthumb://type=GroupIcon&id=939772027&w=150&h=150", "Duration": 0, "SpeedBack": 1.0},
     {"Title": "Yalla Habibi", "Artist": "Whisnu Santika", "Genre": "Veltura", "SoundId": "117974844545140", "ImageId": "rbxthumb://type=AvatarHeadShot&id=220823631&w=150&h=150", "Duration": 0, "SpeedBack": 1.0},
     {"Title": "BOYFRIEND", "Artist": "ALLMO$T", "Genre": "Veltura", "SoundId": "131568099388142", "ImageId": "rbxthumb://type=AvatarHeadShot&id=8175146269&w=150&h=150", "Duration": 0, "SpeedBack": 1.0},
@@ -969,25 +723,6 @@
     {"Title": "DJ TIA MONIKA X CLBK X WUTWUT X LAMPU KAKA SLOW VIRAL TIKTOK", "Artist": "Veltura", "Genre": "Veltura", "SoundId": "127299455041793", "ImageId": "rbxthumb://type=AvatarHeadShot&id=8175146269&w=150&h=150", "Duration": 0, "SpeedBack": 1.0},
     {"Title": "Yeni Inka Adella - OM ADELLA", "Artist": "DJ So asu TENDA BIRU", "Genre": "Veltura", "SoundId": "116291481725114", "ImageId": "rbxthumb://type=AvatarHeadShot&id=220823631&w=150&h=150", "Duration": 0, "SpeedBack": 1.0},
     {"Title": "Let The World Burn", "Artist": "Chris Grey", "Genre": "Veltura", "SoundId": "86196563373638", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.25},
-    {"Title": "Ariana Grande - bye", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "123520478677051", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Metro Boomin Don Tol", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "97763914279050", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "bando - sped up  rev", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "124866011915585", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "The Weeknd Lana Del", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "103146258736937", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Sure Thing", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "108407812387524", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "PARTYNEXTDOOR - MAKE", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "73397314281785", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "bye Altare remix - A", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "73042065123177", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Playboi Carti - 9 AM", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "132430090947340", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Trance", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "119517290185426", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Travis Scott - My Ey", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "82841612684805", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "One Of The Girls", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "105203688126229", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "You", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "115641403330158", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Miguel - Sure Thing", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "77700807528363", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Drake - Not You Too", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "82915639275624", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Want You", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "111606491804777", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Say It", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "108901253888155", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Coming Down", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "85136078733243", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Oxlade - KU LO SA  A", "Artist": "Playlist Nak OG", "Genre": "Playlist Nak OG", "SoundId": "122350362497550", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.33},
-    {"Title": "Consume", "Artist": "Chase Atlantic", "Genre": "Playlist Nak OG", "SoundId": "122062824076766", "ImageId": "rbxthumb://type=GroupIcon&id=791652682&w=150&h=150", "Duration": 0, "SpeedBack": 0.25},
     {"Title": "Mambo Jambo 2", "Artist": "Indobounce", "Genre": "Phantom Club", "SoundId": "115724494338292", "ImageId": "", "Duration": 0, "SpeedBack": 1.0},
     {"Title": "MANYAO 3", "Artist": "Indobounce", "Genre": "Phantom Club", "SoundId": "96152566047057", "ImageId": "", "Duration": 0, "SpeedBack": 1.0},
     {"Title": "MANYAO 4", "Artist": "Indobounce", "Genre": "Phantom Club", "SoundId": "120521609066276", "ImageId": "", "Duration": 0, "SpeedBack": 1.0},
