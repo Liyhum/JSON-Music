@@ -1,5 +1,315 @@
 {
   "Songs": [
+     {
+        "Title": "BREAKBEAT CONCRETE ANGEL 2025 | DJ TELOOR",
+        "Artist": "DJ TELOOR",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "79783753993519",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 379.4605,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DROP ENAKEUN V6 X GALA GALA COCOK BUAT DI MOBIL BY AZIL REMIXER",
+        "Artist": "Azil Remixer",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "73755008093249",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 296.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ MENERIMA LUKA - NATASYA SABELLA BOOTLEG 2025 || SOUND MOTOR GALAU!!!",
+        "Artist": "DJ MENERIMA LUKA",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "76308723661806",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 308.53516666666667,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "GARAM CINA",
+        "Artist": "Yordan Remix Scr",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "75018285647736",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 255.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ ROMLOS PROPUN X SU JAUH SA TANAM X TIA MONIKA X MORENA SLOW VIRAL TIKTOK  MAMAN FVNDY 2025",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "96738019037000",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 236.80870833333333,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ JANDA BODONG V2 - BOOTLEG (imamsidik) SOUND FYP TIKTOK 2025?!!",
+        "Artist": "DJ JANDA BODONG V2",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "72570443003994",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 228.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Sa Ceritakan Pada Bintang Bintang",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "71686726556903",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 214.82402083333332,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Jauh Ko Pergi",
+        "Artist": "KHARIS SOPAN",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "91857941330190",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 304.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "TABOLA BALE",
+        "Artist": "SILET OPEN UP",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "75192306493306",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 273.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Kasih Tau Mama (Malam Minggu)",
+        "Artist": "Rombongan Bodonk Koplo",
+        "Genre": "Indonesian / Hipdut",
+        "SoundId": "96982459795335",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 205.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Ngga Dulu",
+        "Artist": "Akbar Chalay",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "98519800317987",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 188.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Rindu Aku Rindu Kamu",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "129695375749676",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 223.51202083333334,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Mencintai Dengan Ngeyel",
+        "Artist": "Rully Fvnky rmx",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "127882739985502",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 255.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Kicau Mania",
+        "Artist": "Bangsay Official",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "139859776644849",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 341.76054166666665,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ TUNGGAL EKA DENNY CAKNAN TERBARU FULL SONG VIRAL TIKTOK",
+        "Artist": "DJ Oped",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "117192358687845",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 361.8249583333333,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Aishiteru 2",
+        "Artist": "Maman Fvndy Rmx",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "135838756495173",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 164.55972916666667,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Melodi Bete Just Be One",
+        "Artist": "Rian DTM",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "113754219414954",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 148.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "terbuai aku dalam janji manismu",
+        "Artist": "Risxa Winary",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "134468968751741",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 145.87735416666666,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ MALU MALU BOY DIA INDAHKUS X GA KARUAN RYO BOY JANGAN MALU MALU BOY FULL SONG VIRAL 2026",
+        "Artist": "Elart LA",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "94494041996152",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 419.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ LEGENDARIS X MENTE MA' (Slowed & Reverb) SOUND JJ Zenk VIRAL TIKTOK",
+        "Artist": "Jose YETE",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "121393321146573",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 174.8114375,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ DROP BREAKBEAT COCOK BUAT MAIN ROBLOX | SOUND VIRAL DI TIKTOK ‼️",
+        "Artist": "Alam Remix",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "88958659712379",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 344.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ PLAIN JANE X JANGAN GANGGU PACARKU SOUND VIRAL TIKTOK BY DJ DEKK RMX TRENDING TERBARU",
+        "Artist": "Dj Tembel Yte",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "136131467982830",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 238.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Boyfriend",
+        "Artist": "ALLMOST Music",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "79021374196006",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 293.723625,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Bintang 5",
+        "Artist": "Tenxi",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "75974663462845",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 245.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Ra: The Lotus of Life, V2 (Counscious Hip-Hop)",
+        "Artist": "Atum Nefer Ra",
+        "Genre": "Hip-Hop",
+        "SoundId": "139914301676392",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 376.56,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Bounce & Pa Bkb",
+        "Artist": "TKR BREAKBEAT",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "108129697445619",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 195.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Black Hole",
+        "Artist": "ciaffa",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "100726680101563",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 364.6346458333333,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Mbak Billie",
+        "Artist": "6sentani",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "92353901364404",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 133.95235416666668,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "Dang puji tape ludah jj (Pambasilet)",
+        "Artist": "DJ LANG",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "108094642902714",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 202.56697916666667,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ MORENA",
+        "Artist": "Pedro Henrique Londres Duda",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "116671842293629",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 250.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
+      {
+        "Title": "DJ DANG PUJI TA PE LUDAH NDA PUJI TA PE SISI - DJ PAMBASILET VIRAL TERBARU TIKTOK 2026 !!!",
+        "Artist": "DJ DANG PUJI TA PE LUDAH NDA PUJI TA PE SISI",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "118048501798821",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 261.9935,
+        "SpeedBack": 0.5,
+        "Volume": 4
+      },
     {
         "Title": "Akbar Chalay, Mingse - Astaga Bercanda (Official Music Video)",
         "Artist": "Akbar Chalay, Mingse",
