@@ -1,5 +1,25 @@
 {
   "Songs":[
+       {
+          "Title": "DJ PAPI JARANG PULANG [Slowed + Reverb]",
+          "Artist": "GanzzSenpai",
+          "Genre": "DJ & Electronic Mix",
+          "SoundId": "139924879568684",
+          "ImageId": "rbxassetid://108545758953426",
+          "Duration": 262.8034583333333,
+          "SpeedBack": 0.5,
+          "Volume": 5
+        },
+        {
+          "Title": "DJ MUKA DUA [Slowed + Reverb]",
+          "Artist": "GanzzSenpai",
+          "Genre": "DJ & Electronic Mix",
+          "SoundId": "135038188246811",
+          "ImageId": "rbxassetid://108545758953426",
+          "Duration": 313.9935,
+          "SpeedBack": 0.5,
+          "Volume": 5
+        },
         {
           "Title": "BREAKBEAT CONCRETE ANGEL 2025 | DJ TELOOR",
           "Artist": "DJ TELOOR",
