@@ -1,5 +1,25 @@
 {
   "Songs":[
+      {
+          "Title": "HARD TECHNO ● Voices In My Head x Freaks x Love Parade (ACINA & BONKA Mashup)",
+          "Artist": "Psycodelize Music",
+          "Genre": "DJ & Electronic Mix",
+          "SoundId": "92676871994907",
+          "ImageId": "rbxassetid://108545758953426",
+          "Duration": 182.9935,
+          "SpeedBack": 0.5,
+          "Volume": 5
+        },
+        {
+          "Title": "AronChupa - I'm an Albatraoz (Clean)",
+          "Artist": "AronChupa",
+          "Genre": "Pop / Dance Pop",
+          "SoundId": "86402471682838",
+          "ImageId": "rbxassetid://108545758953426",
+          "Duration": 172.01341666666667,
+          "SpeedBack": 0.5,
+          "Volume": 5
+        },
        {
           "Title": "DJ PAPI JARANG PULANG [Slowed + Reverb]",
           "Artist": "GanzzSenpai",
